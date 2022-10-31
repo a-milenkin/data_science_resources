@@ -8,9 +8,12 @@
   - [Data Science](#data-science)
     - [Machine Learning](#machine-learning)
       - [Blog posts](#blog-posts-1)
+      - [Tutorials](#tutorials)
     - [Deep Learning](#deep-learning)
-    - [NLP](#nlp)
+      - [Tutorials](#tutorials-1)
       - [Blog posts](#blog-posts-2)
+    - [NLP](#nlp)
+      - [Blog posts](#blog-posts-3)
     - [Computer Vision](#computer-vision)
     - [RecSys](#recsys)
     - [Metrics](#metrics)
@@ -46,6 +49,7 @@
 
 - [Как я готовился к собеседованию на позицию Senior ML Engineer by Zarin Gleb](https://zaringleb.medium.com/%D0%BA%D0%B0%D0%BA-%D1%8F-%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%B8%D0%BB%D1%81%D1%8F-%D0%BA-%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E-%D0%BD%D0%B0-%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8E-senior-ml-engineer-f2f6d8effa50) `Rus article`
 - [На что обращать внимание на алгоритмических секциях собеседований](https://habr.com/ru/company/avito/blog/662922/) `Rus article`
+- [Crack the top 40 machine learning interview questions](https://www.educative.io/blog/top-machine-learning-interview-questions)
 
 ## Data Science
 
@@ -69,6 +73,11 @@
 - [Векторное представление товаров Prod2Vec: как мы улучшили матчинг и избавились от кучи эмбеддингов](https://habr.com/ru/company/ozontech/blog/648231/) `Rus article`
 - [Some characteristics of best-in-class ML portfolio projects](https://mlops.systems/computervision/skillbuilding/2022/04/04/ml-portfolio-best-practices.html) `article`
 - [Как метод подмены задачи борется с несовершенством данных (и мира)](https://habr.com/ru/company/ru_mts/blog/648063/) `Rus article`
+- [Feature Selection — Exhaustive Overview by Danny Butvinik](https://medium.com/analytics-vidhya/feature-selection-extended-overview-b58f1d524c1c) `article`
+
+#### Tutorials
+
+- CatBoost - An In-Depth Guide [Python API][](https://coderzcolumn.com/tutorials/machine-learning/catboost-an-in-depth-guide-python) `tutorial`
 
 ### Deep Learning
 
@@ -77,7 +86,14 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) `Paid` `Course`
 - [Deep Learning with Python by François Chollet](https://www.manning.com/books/deep-learning-with-python-second-edition) `Paid` `Book`
 - [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/) `Course`
+
+#### Tutorials
+
 - [Introduction to Deep Learning by Sebastian Raschka](https://sebastianraschka.com/blog/2021/dl-course.html#l19-self-attention-and-transformer-networks) `Course`
+
+#### Blog posts
+
+- [WHAT IS TORCH.NN REALLY? by Jeremy Howard, fast.ai](https://pytorch.org/tutorials/beginner/nn_tutorial.html) `tutorial`
 
 ### NLP
 
