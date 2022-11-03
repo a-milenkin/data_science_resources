@@ -44,6 +44,7 @@
 - [Тестовые задания по DS](https://github.com/slgero/testovoe) `Rus`
 - [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview) `Repository`
 - [Data-Science-Interview-Questions by Youssef Hosni](https://github.com/youssefHosni/Data-Science-Interview-Questions) `Repository`
+- [A Guide for Machine Learning Technical Interviews (FAANG Companies)](https://github.com/alirezadir/machine-learning-interview-enlightener) `Repository`
 
 ### Blog posts
 
@@ -74,10 +75,11 @@
 - [Some characteristics of best-in-class ML portfolio projects](https://mlops.systems/computervision/skillbuilding/2022/04/04/ml-portfolio-best-practices.html) `article`
 - [Как метод подмены задачи борется с несовершенством данных (и мира)](https://habr.com/ru/company/ru_mts/blog/648063/) `Rus article`
 - [Feature Selection — Exhaustive Overview by Danny Butvinik](https://medium.com/analytics-vidhya/feature-selection-extended-overview-b58f1d524c1c) `article`
+- [A highly anticipated Time Series Cross-validator is finally here](https://towardsdatascience.com/a-highly-anticipated-time-series-cross-validator-is-finally-here-7dc99f672736) `article`
 
 #### Tutorials
 
-- CatBoost - An In-Depth Guide [Python API][](https://coderzcolumn.com/tutorials/machine-learning/catboost-an-in-depth-guide-python) `tutorial`
+- [CatBoost - An In-Depth Guide](https://coderzcolumn.com/tutorials/machine-learning/catboost-an-in-depth-guide-python) `tutorial`
 
 ### Deep Learning
 
@@ -116,6 +118,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 
 - [Мультиклассификация экстремально коротких текстов классическими методами машинного обучения](https://newtechaudit.ru/multiklassifikacziya-ekstremalno-korotkih-tekstov-klassicheskimi-metodami-mashinnogo-obucheniya/) `Rus article`
 - [Рейтинг русскоязычных энкодеров предложений](https://habr.com/ru/post/669674/) `Rus article`
+- [Как определять пользовательские намерения, о которых мы узнали 5 минут назад](https://habr.com/ru/company/tinkoff/blog/696756/) `Rus article`
 
 ### Computer Vision
 
@@ -152,6 +155,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Mlxtend](https://github.com/rasbt/mlxtend) (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks `Package` `ML`
 - [MinT: Minimal Transformer Library and Tutorials](https://github.com/dpressel/mint) `Package` `NLP`
 - [Проект Natasha. Набор качественных открытых инструментов для обработки естественного русского языка (NLP)](https://habr.com/ru/post/516098/) `Package` `Rus article` `NLP`
+- [ML | Hydra - фреймворк для управления файлами конфигурации, заточенный под ML-проекты](https://habr.com/ru/post/696820/) `Package` `ML`
 
 ### Assignments for ML & DL
 
