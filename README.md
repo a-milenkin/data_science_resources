@@ -92,6 +92,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 #### Tutorials
 
 - [Introduction to Deep Learning by Sebastian Raschka](https://sebastianraschka.com/blog/2021/dl-course.html#l19-self-attention-and-transformer-networks) `Course`
+- [Learn PyTorch for Deep Learning: Zero to Mastery book](https://www.learnpytorch.io/) `tutorial`
 
 #### Blog posts
 
