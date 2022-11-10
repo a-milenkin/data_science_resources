@@ -6,6 +6,7 @@
   - [Interview preparation and knowledge checking](#interview-preparation-and-knowledge-checking)
     - [Blog posts](#blog-posts)
   - [Data Science](#data-science)
+    - [Machine Learning System Design](#machine-learning-system-design)
     - [Machine Learning](#machine-learning)
       - [Blog posts](#blog-posts-1)
       - [Tutorials](#tutorials)
@@ -54,6 +55,11 @@
 
 ## Data Science
 
+### Machine Learning System Design
+
+- [Stanford CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) `Course`
+- [Designing Machine Learning Systems by Chip Huyen](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) `Book`
+
 ### Machine Learning
 
 - [Open Machine Learning Course by Yury Kashnitsky](https://mlcourse.ai/book/index.html) `Free course + Paid additional assignments`  
@@ -61,12 +67,10 @@
 - [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer/featured) `Videos`
 - [Machine Learning Mastery by Jason Brownlee](https://machinelearningmastery.com/) `Free guides + Paid eBooks`
 - [End to End Machine Learning by Brandon Rohrer](https://end-to-end-machine-learning.teachable.com/courses/) `Course`
-- [Учебник по машинному обучению от ШАД Яндекс](https://ml-handbook.ru/) `Rus` `Book`
-- [Stanford CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) `Course`
-- [Designing Machine Learning Systems by Chip Huyen](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) `Book`
 - [Machine Learning Simplified: A gentle introduction to supervised learning by Andrew Wolf](https://themlsbook.com/read) `Free` `Book`
-- [Машинное обучение (курс лекций, К.В.Воронцов)](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%BE) `Rus` `Course`
 - [Stanford CS229: Machine Learning by Andrew Ng](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) `Course`
+- [Учебник по машинному обучению от ШАД Яндекс](https://academy.yandex.ru/handbook/ml) `Rus` `Book`
+- [Машинное обучение (курс лекций, К.В.Воронцов)](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%BE) `Rus` `Course`
 - [Прикладные задачи анализа данных, Александр Дьяконов](https://github.com/Dyakonov/PZAD/tree/master/2020) + [Video](https://www.youtube.com/playlist?list=PLaRUeIuewv8CMFox0oEjlyePUhUmo-x0h) `Rus` `Course`
 
 #### Blog posts
