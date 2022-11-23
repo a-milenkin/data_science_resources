@@ -18,13 +18,13 @@
     - [Computer Vision](#computer-vision)
     - [RecSys](#recsys)
     - [Metrics](#metrics)
-    - [Best Kaggle Notebook & Competitions](#best-kaggle-notebook--competitions)
+    - [Best Kaggle Notebook \& Competitions](#best-kaggle-notebook--competitions)
     - [Not popular, but cool python libraries](#not-popular-but-cool-python-libraries)
-    - [Assignments for ML & DL](#assignments-for-ml--dl)
+    - [Assignments for ML \& DL](#assignments-for-ml--dl)
     - [Cheatsheets](#cheatsheets)
     - [Datasets](#datasets)
     - [Other](#other)
-    - [Other lists of materials](#other-lists-of-materials)
+    - [Lists of materials](#lists-of-materials)
   - [Python](#python)
   - [Math](#math)
   - [Statistics](#statistics)
@@ -161,6 +161,8 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [MinT: Minimal Transformer Library and Tutorials](https://github.com/dpressel/mint) `Package` `NLP`
 - [Проект Natasha. Набор качественных открытых инструментов для обработки естественного русского языка (NLP)](https://habr.com/ru/post/516098/) `Package` `Rus article` `NLP`
 - [ML | Hydra - фреймворк для управления файлами конфигурации, заточенный под ML-проекты](https://habr.com/ru/post/696820/) `Package` `ML`
+- [Lazy Predict](https://pypi.org/project/lazypredict/) `Package` `ML`  
+Lazy Predict helps build a lot of basic models without much code and helps understand which models works better without any parameter tuning.
 
 ### Assignments for ML & DL
 
@@ -196,7 +198,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 
 - [Courses at Stanford relative to AI](https://burlachenkok.github.io/Courses-at-Stanford-relative-to-AI/)
 
-### Other lists of materials
+### Lists of materials
 
 - [NLP Pandect](https://github.com/ivan-bilan/The-NLP-Pandect) `Repository`
 - [Start Career in DS: навигация по постам](https://mercurial-lace-fb6.notion.site/Start-Career-in-DS-689c54baaedb44238afb412cfbd915cb)
