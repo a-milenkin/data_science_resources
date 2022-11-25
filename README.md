@@ -80,6 +80,7 @@
 - [Как метод подмены задачи борется с несовершенством данных (и мира)](https://habr.com/ru/company/ru_mts/blog/648063/) `Rus article`
 - [Feature Selection — Exhaustive Overview by Danny Butvinik](https://medium.com/analytics-vidhya/feature-selection-extended-overview-b58f1d524c1c) `article`
 - [A highly anticipated Time Series Cross-validator is finally here](https://towardsdatascience.com/a-highly-anticipated-time-series-cross-validator-is-finally-here-7dc99f672736) `article`
+- [Интерпретация моделей и диагностика сдвига данных: LIME, SHAP и Shapley Flow](https://habr.com/ru/company/ods/blog/599573) `Rus article` `model explainability`
 
 #### Tutorials
 
@@ -160,7 +161,8 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Mlxtend](https://github.com/rasbt/mlxtend) (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks `Package` `ML`
 - [MinT: Minimal Transformer Library and Tutorials](https://github.com/dpressel/mint) `Package` `NLP`
 - [Проект Natasha. Набор качественных открытых инструментов для обработки естественного русского языка (NLP)](https://habr.com/ru/post/516098/) `Package` `Rus article` `NLP`
-- [ML | Hydra - фреймворк для управления файлами конфигурации, заточенный под ML-проекты](https://habr.com/ru/post/696820/) `Package` `ML`
+- [ML | Hydra](https://habr.com/ru/post/696820/) `Package` `ML`  
+Framework for managing configuration files, tailored for ML projects
 - [Lazy Predict](https://pypi.org/project/lazypredict/) `Package` `ML`  
 Lazy Predict helps build a lot of basic models without much code and helps understand which models works better without any parameter tuning.
 
@@ -235,6 +237,8 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/info) `Free` `Rus` `Course`
 - [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/info) `Free` `Rus` `Course`
 - [Algorithmic concepts By Afshine Amidi and Shervine Amidi](https://superstudy.guide/algorithms-data-structures/foundations/algorithmic-concepts/)
+- [LEETCODE PATTERNS](https://seanprashad.com/leetcode-patterns/)  
+List of questions with patterns + tips
 
 ## Linux
 
