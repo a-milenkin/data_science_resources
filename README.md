@@ -46,6 +46,7 @@
 - [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview) `Repository`
 - [Data-Science-Interview-Questions by Youssef Hosni](https://github.com/youssefHosni/Data-Science-Interview-Questions) `Repository`
 - [A Guide for Machine Learning Technical Interviews (FAANG Companies)](https://github.com/alirezadir/machine-learning-interview-enlightener) `Repository`
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university) `Repository`
 
 ### Blog posts
 
