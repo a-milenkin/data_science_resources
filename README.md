@@ -47,6 +47,7 @@
 - [Data-Science-Interview-Questions by Youssef Hosni](https://github.com/youssefHosni/Data-Science-Interview-Questions) `Repository`
 - [A Guide for Machine Learning Technical Interviews (FAANG Companies)](https://github.com/alirezadir/machine-learning-interview-enlightener) `Repository`
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) `Repository`
+- [53 Python Interview Questions and Answers](https://towardsdatascience.com/53-python-interview-questions-and-answers-91fa311eec3f) `Questions` `Python`
 
 ### Blog posts
 
