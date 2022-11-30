@@ -151,6 +151,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Learning Materials on Kaggle](https://www.kaggle.com/getting-started/39193) `Notebook`
 - NLP:
   - [Approaching (Almost) Any NLP Problem on Kaggle](https://www.kaggle.com/abhishek/approaching-almost-any-nlp-problem-on-kaggle/notebook) `Notebook`
+  - [Long Text Sentiment Classification BERT Windowing](https://www.kaggle.com/code/datajameson/long-text-sentiment-classification-bert-windowing) `Notebook`
 - EDA Pipelines:
   - Titanic:
     - [EDA To Prediction(DieTanic)](https://www.kaggle.com/ash316/eda-to-prediction-dietanic/notebook) `Notebook`
