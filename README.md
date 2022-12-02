@@ -149,6 +149,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Roadmap for Beginners](https://www.kaggle.com/getting-started/73164) `Notebook`
 - [The Best Tutorial for Beginners](https://www.kaggle.com/getting-started/71679) `Notebook`
 - [Learning Materials on Kaggle](https://www.kaggle.com/getting-started/39193) `Notebook`
+- [Data Science for tabular data: Advanced Techniques](https://www.kaggle.com/code/vbmokin/data-science-for-tabular-data-advanced-techniques) `Notebook` `Tabular`
 - NLP:
   - [Approaching (Almost) Any NLP Problem on Kaggle](https://www.kaggle.com/abhishek/approaching-almost-any-nlp-problem-on-kaggle/notebook) `Notebook`
   - [Long Text Sentiment Classification BERT Windowing](https://www.kaggle.com/code/datajameson/long-text-sentiment-classification-bert-windowing) `Notebook`
