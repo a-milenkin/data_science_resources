@@ -247,3 +247,7 @@ List of questions with patterns + tips
 ## Linux
 
 - [Linux commands](https://xmind.app/m/WwtB/) `mind map`
+
+### Tutorials
+
+- [The Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) `tutorial`
