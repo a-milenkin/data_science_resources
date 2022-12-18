@@ -121,6 +121,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Stanford CS 224V Conversational Virtual Assistants with Deep Learning](https://web.stanford.edu/class/cs224v/schedule.html) `Course`
 - [Learn to Love Working with Vector Embeddings by Pinecone](https://www.pinecone.io/learn/) `Course`
 - [Transformer Recipe by Elvis Saravia](https://github.com/dair-ai/Transformers-Recipe) `Repository`
+- [CS11-711 Advanced Natural Language Processing (at Carnegie Mellon University's Language Technology Institute)](http://www.phontron.com/class/anlp2022/) + [Video](https://youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z) `Course`
 
 #### Blog posts
 
