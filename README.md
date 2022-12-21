@@ -48,6 +48,7 @@
 - [A Guide for Machine Learning Technical Interviews (FAANG Companies)](https://github.com/alirezadir/machine-learning-interview-enlightener) `Repository`
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) `Repository`
 - [53 Python Interview Questions and Answers](https://towardsdatascience.com/53-python-interview-questions-and-answers-91fa311eec3f) `Questions` `Python`
+- [You should Review These Topics Before Data Science Technical Interview](https://medium.com/geekculture/you-should-review-these-topics-before-data-science-technical-interview-fed456b60aea) `Questions`
 
 ### Blog posts
 
@@ -101,6 +102,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 
 - [Introduction to Deep Learning by Sebastian Raschka](https://sebastianraschka.com/blog/2021/dl-course.html#l19-self-attention-and-transformer-networks) `Course`
 - [Learn PyTorch for Deep Learning: Zero to Mastery book](https://www.learnpytorch.io/) `tutorial`
+- [Коллекция ручных задачек о нейросетях](https://fulyankin.github.io/deep_learning_masha_book/intro.html) `Rus` `Tasks`
 
 #### Blog posts
 
@@ -206,11 +208,12 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 
 - [Courses at Stanford relative to AI](https://burlachenkok.github.io/Courses-at-Stanford-relative-to-AI/)
 
-### Lists of materials
+## Lists of materials
 
 - [NLP Pandect](https://github.com/ivan-bilan/The-NLP-Pandect) `Repository`
 - [Start Career in DS: навигация по постам](https://mercurial-lace-fb6.notion.site/Start-Career-in-DS-689c54baaedb44238afb412cfbd915cb)
 - [Extra materials for ml-mipt course](https://github.com/girafe-ai/ml-mipt/blob/master/extra_materials.md) `Repository`
+- [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi#tutorials) `Repository`
 
 ## Python
 
