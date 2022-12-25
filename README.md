@@ -4,12 +4,18 @@
 
 - [Learning Resources](#learning-resources)
   - [Interview preparation and knowledge checking](#interview-preparation-and-knowledge-checking)
+    - [Questions](#questions)
+    - [Python](#python)
+    - [Behavioural interview](#behavioural-interview)
+    - [Tips](#tips)
     - [Blog posts](#blog-posts)
+    - [Other](#other)
   - [Data Science](#data-science)
     - [Machine Learning System Design](#machine-learning-system-design)
     - [Machine Learning](#machine-learning)
       - [Blog posts](#blog-posts-1)
       - [Tutorials](#tutorials)
+    - [MLOps](#mlops)
     - [Deep Learning](#deep-learning)
       - [Tutorials](#tutorials-1)
       - [Blog posts](#blog-posts-2)
@@ -23,16 +29,19 @@
     - [Assignments for ML \& DL](#assignments-for-ml--dl)
     - [Cheatsheets](#cheatsheets)
     - [Datasets](#datasets)
-    - [Other](#other)
-    - [Lists of materials](#lists-of-materials)
-  - [Python](#python)
+    - [Other](#other-1)
+  - [Lists of materials](#lists-of-materials)
+  - [Python](#python-1)
   - [Math](#math)
   - [Statistics](#statistics)
   - [SQL](#sql)
   - [Algorithms and Data Structures](#algorithms-and-data-structures)
   - [Linux](#linux)
+    - [Tutorials](#tutorials-2)
 
 ## Interview preparation and knowledge checking
+
+### Questions
 
 - [Machine Learning FAQ by Sebastian Raschka](https://sebastianraschka.com/faq/) `Questions`
 - [Machine Learning FAQ by X](https://machinelearningfaq.com/) `Questions`
@@ -45,16 +54,48 @@
 - [Тестовые задания по DS](https://github.com/slgero/testovoe) `Rus`
 - [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview) `Repository`
 - [Data-Science-Interview-Questions by Youssef Hosni](https://github.com/youssefHosni/Data-Science-Interview-Questions) `Repository`
+- [Data-Science-Interview-Preparation-Resources by Youssef Hosni](https://github.com/youssefHosni/Data-Science-Interview-Preperation-Resources)
 - [A Guide for Machine Learning Technical Interviews (FAANG Companies)](https://github.com/alirezadir/machine-learning-interview-enlightener) `Repository`
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) `Repository`
+- [Data science interview questions with answers](https://github.com/iamtodor/data-science-interview-questions-and-answers) `Repository`
+
+### Python
+
+- [Вопросы с собеседований python. Как проходит собеседование Python-разработчика: вопросы для джуниоров и мидлов.](https://uproger.com/voprosy-s-sobesedovanij-python-kak-prohodit-sobesedovanie-python-razrabotchika-voprosy-dlya-dzhuniorov-i-midlov/) `Questions` `Python` `Rus`
 - [53 Python Interview Questions and Answers](https://towardsdatascience.com/53-python-interview-questions-and-answers-91fa311eec3f) `Questions` `Python`
-- [You should Review These Topics Before Data Science Technical Interview](https://medium.com/geekculture/you-should-review-these-topics-before-data-science-technical-interview-fed456b60aea) `Questions`
+
+### Behavioural interview
+
+- [41 Behavioural Interview Questions You Must Know (Best Answers Included)](https://www.themartec.com/insidelook/behavioral-interview-questions)
+
+### Tips
+
+- [How I Got 15 More Data Science Interviews in One Month?](https://medium.com/geekculture/i-got-15-more-data-science-interviews-with-these-5-tips-87ed03fdcfc7)
+- [Как я проходил собеседования на Machine Learning Engineer](https://habr.com/ru/post/704128/) `Rus`
+- [Google ML engineer interview: the only post you’ll need to read](https://igotanoffer.com/blogs/tech/google-machine-learning-engineer-interview)
+- [Amazon Data Scientist Interview Guide](https://faangpath.com/blog/amazon-data-scientist-interview/)
+- [The Trimodal Nature of Software Engineering Salaries in the Netherlands and Europe](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
+- [Гайд по подготовке CV+Portfolio+Self Presentation+Home task](https://hannalias.notion.site/hannalias/CV-Portfolio-Self-Presentation-Home-task-7c9879f5e2cb4ba9b097a92660c93193) `Rus`
+- [Методика STAR для прохождения структурированных собеседований](https://hr-portal.ru/story/metodika-star-dlya-prohozhdeniya-strukturirovannyh-sobesedovaniy) `Rus`
+- [Как пройти собеседование на английском языке | StarTalk](https://www.youtube.com/watch?v=0zhFfpVuDbQ&ab_channel=GlobalCareer) `Rus` `Video`
+- [Гостевое выступление Тати Габрусевой, Staff Machine Learning Enjineer, NLP, LinkedIn 25.05.2022](https://youtu.be/Q3i90zkupmA) `Rus` `Video`
+- [Полезные ссылки: Как проходить интервью в DS от Айры ](https://docs.google.com/document/d/1N8qCJIUZe9xl_-wYkSmxatQABsttqqDB2rnftCjkP7s/edit) `Rus`
+- [FAANG Interview. Бортовые заметки сообщества](https://faang-interview.github.io/) `Rus`
+- [You should Review These Topics Before Data Science Technical Interview](https://medium.com/geekculture/you-should-review-these-topics-before-data-science-technical-interview-fed456b60aea)
+- [Хендбуки Академии Яндекса](https://academy.yandex.ru/handbook#all) `Rus`
 
 ### Blog posts
 
-- [Как я готовился к собеседованию на позицию Senior ML Engineer by Zarin Gleb](https://zaringleb.medium.com/%D0%BA%D0%B0%D0%BA-%D1%8F-%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%B8%D0%BB%D1%81%D1%8F-%D0%BA-%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E-%D0%BD%D0%B0-%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8E-senior-ml-engineer-f2f6d8effa50) `Rus article`
-- [На что обращать внимание на алгоритмических секциях собеседований](https://habr.com/ru/company/avito/blog/662922/) `Rus article`
+- [Как я готовился к собеседованию на позицию Senior ML Engineer by Zarin Gleb](https://zaringleb.medium.com/%D0%BA%D0%B0%D0%BA-%D1%8F-%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%B8%D0%BB%D1%81%D1%8F-%D0%BA-%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E-%D0%BD%D0%B0-%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8E-senior-ml-engineer-f2f6d8effa50) `Rus`
+- [На что обращать внимание на алгоритмических секциях собеседований](https://habr.com/ru/company/avito/blog/662922/) `Rus`
 - [Crack the top 40 machine learning interview questions](https://www.educative.io/blog/top-machine-learning-interview-questions)
+- [[Карьера в IT] Главное: что нужно знать, чтобы найти работу, пройти собеседование и выбрать оффер](https://habr.com/ru/company/getmatch/blog/685200/) `Rus`
+- [How I landed 18 FAANG+ software engineer offers after not interviewing for 5 years](https://medium.com/@stevenzhang/how-i-landed-18-faang-software-engineer-offers-after-not-interviewing-for-5-years-fc0dfc957a5d)
+
+### Other
+
+- [Data Scientist total compensation and salaries in the Netherlands
+](https://techpays.com/europe/netherlands/data_scientist)
 
 ## Data Science
 
@@ -79,16 +120,27 @@
 
 #### Blog posts
 
-- [Векторное представление товаров Prod2Vec: как мы улучшили матчинг и избавились от кучи эмбеддингов](https://habr.com/ru/company/ozontech/blog/648231/) `Rus article`
-- [Some characteristics of best-in-class ML portfolio projects](https://mlops.systems/computervision/skillbuilding/2022/04/04/ml-portfolio-best-practices.html) `article`
-- [Как метод подмены задачи борется с несовершенством данных (и мира)](https://habr.com/ru/company/ru_mts/blog/648063/) `Rus article`
-- [Feature Selection — Exhaustive Overview by Danny Butvinik](https://medium.com/analytics-vidhya/feature-selection-extended-overview-b58f1d524c1c) `article`
+- [Векторное представление товаров Prod2Vec: как мы улучшили матчинг и избавились от кучи эмбеддингов](https://habr.com/ru/company/ozontech/blog/648231/) `Rus`
+- [Some characteristics of best-in-class ML portfolio projects](https://mlops.systems/computervision/skillbuilding/2022/04/04/ml-portfolio-best-practices.html)
+- [Как метод подмены задачи борется с несовершенством данных (и мира)](https://habr.com/ru/company/ru_mts/blog/648063/) `Rus`
+- [Feature Selection — Exhaustive Overview by Danny Butvinik](https://medium.com/analytics-vidhya/feature-selection-extended-overview-b58f1d524c1c)
 - [A highly anticipated Time Series Cross-validator is finally here](https://towardsdatascience.com/a-highly-anticipated-time-series-cross-validator-is-finally-here-7dc99f672736) `article`
-- [Интерпретация моделей и диагностика сдвига данных: LIME, SHAP и Shapley Flow](https://habr.com/ru/company/ods/blog/599573) `Rus article` `model explainability`
+- [Интерпретация моделей и диагностика сдвига данных: LIME, SHAP и Shapley Flow](https://habr.com/ru/company/ods/blog/599573) `Rus` `model explainability`
+- [Machine Learning for Everyone. In simple words. With real-world examples](https://vas3k.com/blog/machine_learning/)
+- [Мое первое серебро на Kaggle или как стабилизировать ML модель и подпрыгнуть на 700 мест вверх](https://habr.com/ru/post/704440/) `Rus`
 
 #### Tutorials
 
 - [CatBoost - An In-Depth Guide](https://coderzcolumn.com/tutorials/machine-learning/catboost-an-in-depth-guide-python) `tutorial`
+- [Введение в библиотеку Transformers и платформу Hugging Face
+](https://habr.com/ru/post/704592/) `Rus`
+
+### MLOps
+
+- [FastAPI for Machine Learning: Live coding an ML web application with the creator of FastAPI  Sebastián Ramírez](https://www.youtube.com/watch?v=_BZGtifh_gw&ab_channel=DeepLearningAI) `Video`
+- [Build your MLOps stack](https://mymlops.com/)
+- [MLOps и production подход к ML исследованиям](https://ods.ai/tracks/ml-in-production-spring-22) `Course` `Rus`
+- [ML System Design. Autumn 22/23](https://ods.ai/tracks/ml-system-design-22) `Course` `Rus`
 
 ### Deep Learning
 
@@ -103,6 +155,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Introduction to Deep Learning by Sebastian Raschka](https://sebastianraschka.com/blog/2021/dl-course.html#l19-self-attention-and-transformer-networks) `Course`
 - [Learn PyTorch for Deep Learning: Zero to Mastery book](https://www.learnpytorch.io/) `tutorial`
 - [Коллекция ручных задачек о нейросетях](https://fulyankin.github.io/deep_learning_masha_book/intro.html) `Rus` `Tasks`
+- [A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks by Sebastian Raschka](https://github.com/rasbt/deeplearning-models)
 
 #### Blog posts
 
@@ -214,6 +267,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [Start Career in DS: навигация по постам](https://mercurial-lace-fb6.notion.site/Start-Career-in-DS-689c54baaedb44238afb412cfbd915cb)
 - [Extra materials for ml-mipt course](https://github.com/girafe-ai/ml-mipt/blob/master/extra_materials.md) `Repository`
 - [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi#tutorials) `Repository`
+- [Curated papers, articles, and blogs on data science & machine learning in production](https://github.com/eugeneyan/applied-ml) `Repository`
 
 ## Python
 
@@ -223,6 +277,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 ## Math
 
 - [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/)
+- [В Data Science не нужна математика (Почти)](https://habr.com/ru/company/ruvds/blog/676114/) `Rus`
 
 ## Statistics
 
@@ -231,13 +286,15 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [CS109: Probability for Computer Scientists](https://web.stanford.edu/class/cs109/) + [Course Book](https://chrispiech.github.io/probabilityForComputerScientists/en/index.html) `Course`
 - [Математическая статистика и AB-тестирование](https://github.com/FUlyankin/matstat_coursera) `Repository`
 - [Стратификация. Как разбиение выборки повышает чувствительность A/B теста](https://habr.com/ru/company/X5Tech/blog/596279/) `Rus article`
+- [12 бесплатных материалов по статистике – разберется каждый](https://uproger.com/12-besplatnyh-materialov-po-statistike-razberetsya-kazhdyj/) `Rus`
+- [Математическая статистика. Начало](http://www.mathprofi.ru/matematicheskaya_statistika.html) `Rus`
 
 ## SQL
 
 - [Основы SQL](https://stepik.org/course/51562/info) + [Продвинутый SQL](https://stepik.org/course/55776/info) + [Проектирование баз данных](https://stepik.org/course/51675/info) `Rus` `Paid` `Courses`
-
 - [Интерактивный тренажер по SQL](https://stepik.org/course/63054/info) `Rus` `Course`
 - [Онлайн тренажер SQL Academy](https://sql-academy.org/ru/trainer?sort=byId) `Rus` `Course`
+- [Ace the SQL & Data Science Interview](https://datalemur.com/)
 
 ## Algorithms and Data Structures
 
