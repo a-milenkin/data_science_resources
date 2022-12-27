@@ -83,6 +83,8 @@
 - [FAANG Interview. Бортовые заметки сообщества](https://faang-interview.github.io/) `Rus`
 - [You should Review These Topics Before Data Science Technical Interview](https://medium.com/geekculture/you-should-review-these-topics-before-data-science-technical-interview-fed456b60aea)
 - [Хендбуки Академии Яндекса](https://academy.yandex.ru/handbook#all) `Rus`
+- [Crack the Amazon Data Scientist Interviews | Ex-FAANG Data Scientist by Dan Lee](https://medium.com/datainterview/crack-the-amazon-data-scientist-interviews-ex-faang-data-scientist-78189a5a689e)
+- [Interview Warmup by Google](https://grow.google/certificates/interview-warmup/)
 
 ### Blog posts
 
@@ -94,8 +96,8 @@
 
 ### Other
 
-- [Data Scientist total compensation and salaries in the Netherlands
-](https://techpays.com/europe/netherlands/data_scientist)
+- [Data Scientist total compensation and salaries in the Netherlands](https://techpays.com/europe/netherlands/data_scientist)
+- [Programmer Competency Matrix](https://sijinjoseph.netlify.app/programmer-competency-matrix/)
 
 ## Data Science
 
