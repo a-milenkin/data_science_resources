@@ -13,18 +13,18 @@
   - [Data Science](#data-science)
     - [Machine Learning System Design](#machine-learning-system-design)
     - [Machine Learning](#machine-learning)
-      - [Blog posts](#blog-posts-1)
+      - [Blogs \& Blog posts](#blogs--blog-posts)
       - [Tutorials](#tutorials)
     - [MLOps](#mlops)
     - [Deep Learning](#deep-learning)
       - [Tutorials](#tutorials-1)
-      - [Blog posts](#blog-posts-2)
+      - [Blog posts](#blog-posts-1)
     - [NLP](#nlp)
-      - [Blog posts](#blog-posts-3)
+      - [Blog posts](#blog-posts-2)
     - [Computer Vision](#computer-vision)
     - [RecSys](#recsys)
     - [Metrics](#metrics)
-    - [Best Kaggle Notebook \& Competitions](#best-kaggle-notebook--competitions)
+    - [Best Kaggle Notebooks \& Competitions](#best-kaggle-notebooks--competitions)
     - [Not popular, but cool python libraries](#not-popular-but-cool-python-libraries)
     - [Assignments for ML \& DL](#assignments-for-ml--dl)
     - [Cheatsheets](#cheatsheets)
@@ -58,6 +58,7 @@
 - [A Guide for Machine Learning Technical Interviews (FAANG Companies)](https://github.com/alirezadir/machine-learning-interview-enlightener) `Repository`
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) `Repository`
 - [Data science interview questions with answers](https://github.com/iamtodor/data-science-interview-questions-and-answers) `Repository`
+- [120 Data Science Interview Questions](https://github.com/kojino/120-Data-Science-Interview-Questions) `Repository`
 
 ### Python
 
@@ -85,6 +86,8 @@
 - [Хендбуки Академии Яндекса](https://academy.yandex.ru/handbook#all) `Rus`
 - [Crack the Amazon Data Scientist Interviews | Ex-FAANG Data Scientist by Dan Lee](https://medium.com/datainterview/crack-the-amazon-data-scientist-interviews-ex-faang-data-scientist-78189a5a689e)
 - [Interview Warmup by Google](https://grow.google/certificates/interview-warmup/)
+- [Как не провалить интервью. Исследование из Стэнфорда о пользе самоуверенности](https://habr.com/ru/company/getmatch/blog/707954/) `Rus`
+- [Дайджест уходящего года: релокейт в Европу и США, главное о карьере и сверхзанятости](https://habr.com/ru/amp/post/707854/) `Rus`
 
 ### Blog posts
 
@@ -118,9 +121,9 @@
 - [Учебник по машинному обучению от ШАД Яндекс](https://academy.yandex.ru/handbook/ml) `Rus` `Book`
 - [Машинное обучение (курс лекций, К.В.Воронцов)](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%BE) `Rus` `Course`
 - [Прикладные задачи анализа данных, Александр Дьяконов](https://github.com/Dyakonov/PZAD/tree/master/2020) + [Video](https://www.youtube.com/playlist?list=PLaRUeIuewv8CMFox0oEjlyePUhUmo-x0h) `Rus` `Course`
- -[Interpretable Machine Learning. A Guide for Making Black Box Models Explainable by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/) `Book`
+- [Interpretable Machine Learning. A Guide for Making Black Box Models Explainable by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/) `Book`
 
-#### Blog posts
+#### Blogs & Blog posts
 
 - [Векторное представление товаров Prod2Vec: как мы улучшили матчинг и избавились от кучи эмбеддингов](https://habr.com/ru/company/ozontech/blog/648231/) `Rus`
 - [Some characteristics of best-in-class ML portfolio projects](https://mlops.systems/computervision/skillbuilding/2022/04/04/ml-portfolio-best-practices.html)
@@ -130,6 +133,8 @@
 - [Интерпретация моделей и диагностика сдвига данных: LIME, SHAP и Shapley Flow](https://habr.com/ru/company/ods/blog/599573) `Rus` `model explainability`
 - [Machine Learning for Everyone. In simple words. With real-world examples](https://vas3k.com/blog/machine_learning/)
 - [Мое первое серебро на Kaggle или как стабилизировать ML модель и подпрыгнуть на 700 мест вверх](https://habr.com/ru/post/704440/) `Rus`
+- [Applying Machine Learning by Eugene Yan](https://applyingml.com/) `Site`
+- [Soccer Analytics 2022 Review](https://www.janvanhaaren.be/2022/12/29/soccer-analytics-review-2022.html) `football`
 
 #### Tutorials
 
@@ -202,13 +207,14 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Classification metrics (precision, recall, F1 and Matthews correlation coefficient)](https://twitter.com/rasbt/status/1457018296847437824?t=NHXMPdhYFg9xF-WzqGQZYg&s=09) `Twitter thread`
 - [Classification metrics (precision, recall, F1 and Matthews correlation coefficient) vs Balanced Accuracy](https://twitter.com/rasbt/status/1459577884100767753?t=hErn_d7Xvr_zq8eYokAx8w&s=09) `Twitter thread`
 
-### Best Kaggle Notebook & Competitions
+### Best Kaggle Notebooks & Competitions
 
 - [Best Kaggle Competitions for Beginners](https://www.kaggle.com/getting-started/78482) `Competitions`
 - [Roadmap for Beginners](https://www.kaggle.com/getting-started/73164) `Notebook`
 - [The Best Tutorial for Beginners](https://www.kaggle.com/getting-started/71679) `Notebook`
 - [Learning Materials on Kaggle](https://www.kaggle.com/getting-started/39193) `Notebook`
 - [Data Science for tabular data: Advanced Techniques](https://www.kaggle.com/code/vbmokin/data-science-for-tabular-data-advanced-techniques) `Notebook` `Tabular`
+- [Feature Selection with Null Importances](https://www.kaggle.com/code/ogrellier/feature-selection-with-null-importances) `Notebook` `Tabular` `Feature Selection`
 - NLP:
   - [Approaching (Almost) Any NLP Problem on Kaggle](https://www.kaggle.com/abhishek/approaching-almost-any-nlp-problem-on-kaggle/notebook) `Notebook`
   - [Long Text Sentiment Classification BERT Windowing](https://www.kaggle.com/code/datajameson/long-text-sentiment-classification-bert-windowing) `Notebook`
