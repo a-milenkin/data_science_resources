@@ -8,19 +8,21 @@
     - [Python](#python)
     - [Behavioural interview](#behavioural-interview)
     - [Tips](#tips)
+    - [Courses](#courses)
     - [Blog posts](#blog-posts)
     - [Other](#other)
   - [Data Science](#data-science)
     - [Machine Learning System Design](#machine-learning-system-design)
     - [Machine Learning](#machine-learning)
-      - [Blogs \& Blog posts](#blogs--blog-posts)
+      - [Blog posts](#blog-posts-1)
+      - [Blogs](#blogs)
       - [Tutorials](#tutorials)
     - [MLOps](#mlops)
     - [Deep Learning](#deep-learning)
       - [Tutorials](#tutorials-1)
-      - [Blog posts](#blog-posts-1)
-    - [NLP](#nlp)
       - [Blog posts](#blog-posts-2)
+    - [NLP](#nlp)
+      - [Blog posts](#blog-posts-3)
     - [Computer Vision](#computer-vision)
     - [RecSys](#recsys)
     - [Metrics](#metrics)
@@ -80,7 +82,7 @@
 - [Методика STAR для прохождения структурированных собеседований](https://hr-portal.ru/story/metodika-star-dlya-prohozhdeniya-strukturirovannyh-sobesedovaniy) `Rus`
 - [Как пройти собеседование на английском языке | StarTalk](https://www.youtube.com/watch?v=0zhFfpVuDbQ&ab_channel=GlobalCareer) `Rus` `Video`
 - [Гостевое выступление Тати Габрусевой, Staff Machine Learning Enjineer, NLP, LinkedIn 25.05.2022](https://youtu.be/Q3i90zkupmA) `Rus` `Video`
-- [Полезные ссылки: Как проходить интервью в DS от Айры ](https://docs.google.com/document/d/1N8qCJIUZe9xl_-wYkSmxatQABsttqqDB2rnftCjkP7s/edit) `Rus`
+- [Полезные ссылки: Как проходить интервью в DS от Айры](https://docs.google.com/document/d/1N8qCJIUZe9xl_-wYkSmxatQABsttqqDB2rnftCjkP7s/edit) `Rus`
 - [FAANG Interview. Бортовые заметки сообщества](https://faang-interview.github.io/) `Rus`
 - [You should Review These Topics Before Data Science Technical Interview](https://medium.com/geekculture/you-should-review-these-topics-before-data-science-technical-interview-fed456b60aea)
 - [Хендбуки Академии Яндекса](https://academy.yandex.ru/handbook#all) `Rus`
@@ -89,6 +91,10 @@
 - [Как не провалить интервью. Исследование из Стэнфорда о пользе самоуверенности](https://habr.com/ru/company/getmatch/blog/707954/) `Rus`
 - [Дайджест уходящего года: релокейт в Европу и США, главное о карьере и сверхзанятости](https://habr.com/ru/amp/post/707854/) `Rus`
 - [How I got in to Amazon, Microsoft, Google. All from studying these resources](https://levelup.gitconnected.com/how-i-got-in-to-amazon-microsoft-google-all-from-studying-these-resources-31724508ce0e)
+
+### Courses
+
+- [Хочу крутой оффер](https://stepik.org/course/121958/) `Rus`
 
 ### Blog posts
 
@@ -126,7 +132,7 @@
 - [Прикладные задачи анализа данных, Александр Дьяконов](https://github.com/Dyakonov/PZAD/tree/master/2020) + [Video](https://www.youtube.com/playlist?list=PLaRUeIuewv8CMFox0oEjlyePUhUmo-x0h) `Rus` `Course`
 - [Interpretable Machine Learning. A Guide for Making Black Box Models Explainable by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/) `Book`
 
-#### Blogs & Blog posts
+#### Blog posts
 
 - [Векторное представление товаров Prod2Vec: как мы улучшили матчинг и избавились от кучи эмбеддингов](https://habr.com/ru/company/ozontech/blog/648231/) `Rus`
 - [Some characteristics of best-in-class ML portfolio projects](https://mlops.systems/computervision/skillbuilding/2022/04/04/ml-portfolio-best-practices.html)
@@ -136,8 +142,17 @@
 - [Интерпретация моделей и диагностика сдвига данных: LIME, SHAP и Shapley Flow](https://habr.com/ru/company/ods/blog/599573) `Rus` `model explainability`
 - [Machine Learning for Everyone. In simple words. With real-world examples](https://vas3k.com/blog/machine_learning/)
 - [Мое первое серебро на Kaggle или как стабилизировать ML модель и подпрыгнуть на 700 мест вверх](https://habr.com/ru/post/704440/) `Rus`
-- [Applying Machine Learning by Eugene Yan](https://applyingml.com/) `Site`
 - [Soccer Analytics 2022 Review](https://www.janvanhaaren.be/2022/12/29/soccer-analytics-review-2022.html) `football`
+
+#### Blogs
+
+- [Applying Machine Learning by Eugene Yan](https://applyingml.com/)
+- [Eugene Yan](https://eugeneyan.com/)
+  - [Data Science Project Quick-Start](https://eugeneyan.com/writing/project-quick-start/)  `datascience` `engineering` `productivity`
+  - [Stop Taking Regular Notes; Use a Zettelkasten Instead](https://eugeneyan.com/writing/note-taking-zettelkasten/) `writing` `learning` `productivity`
+  - [Writing is Learning: How I Learned an Easier Way to Write](https://eugeneyan.com/writing/reading-note-taking-writing/) `writing` `learning`
+- [Andrey Lukyanenko](https://andlukyane.com/)
+  - [A third life of a personal pet-project for handwritten digit recognition](https://andlukyane.com/blog/a-third-life-of-a-personal-project)
 
 #### Tutorials
 
