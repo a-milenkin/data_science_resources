@@ -299,6 +299,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [Стратификация. Как разбиение выборки повышает чувствительность A/B теста](https://habr.com/ru/company/X5Tech/blog/596279/) `Rus article`
 - [12 бесплатных материалов по статистике – разберется каждый](https://uproger.com/12-besplatnyh-materialov-po-statistike-razberetsya-kazhdyj/) `Rus`
 - [Математическая статистика. Начало](http://www.mathprofi.ru/matematicheskaya_statistika.html) `Rus`
+- [Z Statistics by Justin Zeltzer](http://www.zstatistics.com/videos/) `Videos`
 
 ## SQL
 
