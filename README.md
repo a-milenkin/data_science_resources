@@ -88,6 +88,7 @@
 - [Interview Warmup by Google](https://grow.google/certificates/interview-warmup/)
 - [Как не провалить интервью. Исследование из Стэнфорда о пользе самоуверенности](https://habr.com/ru/company/getmatch/blog/707954/) `Rus`
 - [Дайджест уходящего года: релокейт в Европу и США, главное о карьере и сверхзанятости](https://habr.com/ru/amp/post/707854/) `Rus`
+- [How I got in to Amazon, Microsoft, Google. All from studying these resources](https://levelup.gitconnected.com/how-i-got-in-to-amazon-microsoft-google-all-from-studying-these-resources-31724508ce0e)
 
 ### Blog posts
 
@@ -108,6 +109,8 @@
 
 - [Stanford CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) `Course`
 - [Designing Machine Learning Systems by Chip Huyen](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) `Book`
+- [ML System Design](https://ods.ai/tracks/ml-system-design-22) `Course` `Rus`
+- [Шаблон ML System Design Doc от телеграм-канала Reliable ML](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru) `Repository` `Rus`
 
 ### Machine Learning
 
@@ -303,6 +306,10 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [Интерактивный тренажер по SQL](https://stepik.org/course/63054/info) `Rus` `Course`
 - [Онлайн тренажер SQL Academy](https://sql-academy.org/ru/trainer?sort=byId) `Rus` `Course`
 - [Ace the SQL & Data Science Interview](https://datalemur.com/)
+- [Practice SQL](https://www.sql-practice.com/)
+- [SQL Tutorial](https://mode.com/sql-tutorial/)
+- [SQLBolt. Learn SQL with simple, interactive exercises.](https://sqlbolt.com/)
+- [SQL Tutorial by w3schools](https://www.w3schools.com/sql/)
 
 ## Algorithms and Data Structures
 
