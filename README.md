@@ -151,6 +151,7 @@
   - [Data Science Project Quick-Start](https://eugeneyan.com/writing/project-quick-start/)  `datascience` `engineering` `productivity`
   - [Stop Taking Regular Notes; Use a Zettelkasten Instead](https://eugeneyan.com/writing/note-taking-zettelkasten/) `writing` `learning` `productivity`
   - [Writing is Learning: How I Learned an Easier Way to Write](https://eugeneyan.com/writing/reading-note-taking-writing/) `writing` `learning`
+  - [Uncommon Uses of Python in Commonly Used Libraries](https://eugeneyan.com/writing/uncommon-python/) `python` `engineering`
 - [Andrey Lukyanenko](https://andlukyane.com/)
   - [A third life of a personal pet-project for handwritten digit recognition](https://andlukyane.com/blog/a-third-life-of-a-personal-project)
 
