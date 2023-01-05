@@ -158,8 +158,8 @@
 #### Tutorials
 
 - [CatBoost - An In-Depth Guide](https://coderzcolumn.com/tutorials/machine-learning/catboost-an-in-depth-guide-python) `tutorial`
-- [Введение в библиотеку Transformers и платформу Hugging Face
-](https://habr.com/ru/post/704592/) `Rus`
+- [Введение в библиотеку Transformers и платформу Hugging Face](https://habr.com/ru/post/704592/) `Rus`
+- [R2D3 is an experiment in expressing statistical thinking with interactive design](http://www.r2d3.us/) `visualization`
 
 ### MLOps
 
@@ -182,6 +182,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Learn PyTorch for Deep Learning: Zero to Mastery book](https://www.learnpytorch.io/) `tutorial`
 - [Коллекция ручных задачек о нейросетях](https://fulyankin.github.io/deep_learning_masha_book/intro.html) `Rus` `Tasks`
 - [A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks by Sebastian Raschka](https://github.com/rasbt/deeplearning-models)
+- [Deep Learning Fundamentals by Sebastian Raschka and Lightning AI](https://lightning.ai/pages/courses/deep-learning-fundamentals/)
 
 #### Blog posts
 
