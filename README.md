@@ -8,6 +8,7 @@
     - [Python](#python)
     - [Behavioural interview](#behavioural-interview)
     - [Tips](#tips)
+    - [Interview Preparation](#interview-preparation)
     - [Courses](#courses)
     - [Blog posts](#blog-posts)
     - [Other](#other)
@@ -61,11 +62,15 @@
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) `Repository`
 - [Data science interview questions with answers](https://github.com/iamtodor/data-science-interview-questions-and-answers) `Repository`
 - [120 Data Science Interview Questions](https://github.com/kojino/120-Data-Science-Interview-Questions) `Repository`
+- [Вопросы для интервью по специальности Data Science](https://interview-mds.ru/) `Rus`
+- [Interview Questions from interviewquery.com](https://www.interviewquery.com/questions?searchQuery=&searchQuestionTag=&searchCompany=&ordering=Recommended&pageSize=20&page=0)
+- [Вопросы с собеседовании по машинному обучению](https://uproger.com/45-voprosov-dlya-sobesedovaniya-po-mashinnomu-obucheniyu-statya-v-razrabotke/) `Rus`
 
 ### Python
 
 - [Вопросы с собеседований python. Как проходит собеседование Python-разработчика: вопросы для джуниоров и мидлов.](https://uproger.com/voprosy-s-sobesedovanij-python-kak-prohodit-sobesedovanie-python-razrabotchika-voprosy-dlya-dzhuniorov-i-midlov/) `Questions` `Python` `Rus`
 - [53 Python Interview Questions and Answers](https://towardsdatascience.com/53-python-interview-questions-and-answers-91fa311eec3f) `Questions` `Python`
+- [Вопросы на собеседовании Python, ответы, на которые вам стоит знать](https://uproger.com/20-voprosov-dlya-python-sobesedovanij-otvety-na-kotorye-vam-stoit-znat/) `Questions` `Python` `Rus`
 
 ### Behavioural interview
 
@@ -88,9 +93,15 @@
 - [Хендбуки Академии Яндекса](https://academy.yandex.ru/handbook#all) `Rus`
 - [Crack the Amazon Data Scientist Interviews | Ex-FAANG Data Scientist by Dan Lee](https://medium.com/datainterview/crack-the-amazon-data-scientist-interviews-ex-faang-data-scientist-78189a5a689e)
 - [Interview Warmup by Google](https://grow.google/certificates/interview-warmup/)
-- [Как не провалить интервью. Исследование из Стэнфорда о пользе самоуверенности](https://habr.com/ru/company/getmatch/blog/707954/) `Rus`
 - [Дайджест уходящего года: релокейт в Европу и США, главное о карьере и сверхзанятости](https://habr.com/ru/amp/post/707854/) `Rus`
 - [How I got in to Amazon, Microsoft, Google. All from studying these resources](https://levelup.gitconnected.com/how-i-got-in-to-amazon-microsoft-google-all-from-studying-these-resources-31724508ce0e)
+- [Материалы для подготовки по машинному обучению от Тинькофф](https://www.tinkoff.ru/career/it/interview/ml/) `Rus`
+- [Articles, books and videos to help get well-paying tech jobs by TechPays](https://techpays.eu/resources)
+
+### Interview Preparation
+
+- [Interview Query is the best adaptive learning platform for Data Scientists by Data Scientists](https://www.interviewquery.com/)
+- [Как не провалить интервью. Исследование из Стэнфорда о пользе самоуверенности](https://habr.com/ru/company/getmatch/blog/707954/) `Rus`
 
 ### Courses
 
@@ -167,6 +178,7 @@
 - [Build your MLOps stack](https://mymlops.com/)
 - [MLOps и production подход к ML исследованиям](https://ods.ai/tracks/ml-in-production-spring-22) `Course` `Rus`
 - [ML System Design. Autumn 22/23](https://ods.ai/tracks/ml-system-design-22) `Course` `Rus`
+- [MLOps Guide](https://mlops-guide.github.io/)
 
 ### Deep Learning
 
@@ -288,6 +300,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 ### Other
 
 - [Courses at Stanford relative to AI](https://burlachenkok.github.io/Courses-at-Stanford-relative-to-AI/)
+- [Путь Лемминга. Про планирование карьеры, выгорание, здоровье, конкуренцию и т.п.](https://youtube.com/playlist?list=PLjnbr2ZalOERJFXH8CjggCtJc0Uz7wZb0) `Rus` `Course`
 
 ## Lists of materials
 
@@ -301,6 +314,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 
 - [Python: основы и применение](https://stepik.org/course/512/info) `Rus` `Course`
 - [Программирование на Python](https://stepik.org/course/67/info) `Rus` `Course`
+- [Efficient Python Tricks and Tools for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html) `Book` `Repository`
 
 ## Math
 
