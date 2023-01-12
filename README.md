@@ -15,6 +15,7 @@
   - [Data Science](#data-science)
     - [Machine Learning System Design](#machine-learning-system-design)
     - [Machine Learning](#machine-learning)
+      - [Articles](#articles)
       - [Blog posts](#blog-posts-1)
       - [Blogs](#blogs)
       - [Tutorials](#tutorials)
@@ -27,7 +28,7 @@
     - [Computer Vision](#computer-vision)
     - [RecSys](#recsys)
     - [Metrics](#metrics)
-    - [Best Kaggle Notebooks \& Competitions](#best-kaggle-notebooks--competitions)
+    - [Kaggle](#kaggle)
     - [Not popular, but cool python libraries](#not-popular-but-cool-python-libraries)
     - [Assignments for ML \& DL](#assignments-for-ml--dl)
     - [Cheatsheets](#cheatsheets)
@@ -65,6 +66,8 @@
 - [Вопросы для интервью по специальности Data Science](https://interview-mds.ru/) `Rus`
 - [Interview Questions from interviewquery.com](https://www.interviewquery.com/questions?searchQuery=&searchQuestionTag=&searchCompany=&ordering=Recommended&pageSize=20&page=0)
 - [Вопросы с собеседовании по машинному обучению](https://uproger.com/45-voprosov-dlya-sobesedovaniya-po-mashinnomu-obucheniyu-statya-v-razrabotke/) `Rus`
+- [Вопросы тестов по курсу «Глубокое обучение» Александр Дьяконов](https://github.com/Dyakonov/BOOKs/blob/main/DLtest_Dyakonov.pdf) `Rus`
+- [Вопросы с собеседования по анализу данных SQL в 2023 году](https://uproger.com/voprosy-dlya-sobesedovaniya-po-sql-2023/) `Rus`
 
 ### Python
 
@@ -143,6 +146,10 @@
 - [Прикладные задачи анализа данных, Александр Дьяконов](https://github.com/Dyakonov/PZAD/tree/master/2020) + [Video](https://www.youtube.com/playlist?list=PLaRUeIuewv8CMFox0oEjlyePUhUmo-x0h) `Rus` `Course`
 - [Interpretable Machine Learning. A Guide for Making Black Box Models Explainable by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/) `Book`
 
+#### Articles
+
+- [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning by Sebastian Raschka](https://arxiv.org/abs/1811.12808) `Article`
+
 #### Blog posts
 
 - [Векторное представление товаров Prod2Vec: как мы улучшили матчинг и избавились от кучи эмбеддингов](https://habr.com/ru/company/ozontech/blog/648231/) `Rus`
@@ -165,6 +172,7 @@
   - [Uncommon Uses of Python in Commonly Used Libraries](https://eugeneyan.com/writing/uncommon-python/) `python` `engineering`
 - [Andrey Lukyanenko](https://andlukyane.com/)
   - [A third life of a personal pet-project for handwritten digit recognition](https://andlukyane.com/blog/a-third-life-of-a-personal-project)
+- [Dan Bader](https://dbader.org/)
 
 #### Tutorials
 
@@ -187,6 +195,8 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) `Paid` `Course`
 - [Deep Learning with Python by François Chollet](https://www.manning.com/books/deep-learning-with-python-second-edition) `Paid` `Book`
 - [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/) `Course`
+- [CS25: Transformers United V2](https://web.stanford.edu/class/cs25/) `Course`
+- [Full Stack Deep Learning - Course 2022](https://fullstackdeeplearning.com/course/2022/)
 
 #### Tutorials
 
@@ -195,6 +205,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Коллекция ручных задачек о нейросетях](https://fulyankin.github.io/deep_learning_masha_book/intro.html) `Rus` `Tasks`
 - [A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks by Sebastian Raschka](https://github.com/rasbt/deeplearning-models)
 - [Deep Learning Fundamentals by Sebastian Raschka and Lightning AI](https://lightning.ai/pages/courses/deep-learning-fundamentals/)
+- [Neural Networks: Zero to Hero by Andrej Karpathy](https://karpathy.ai/zero-to-hero.html) `Course`
 
 #### Blog posts
 
@@ -239,7 +250,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Classification metrics (precision, recall, F1 and Matthews correlation coefficient)](https://twitter.com/rasbt/status/1457018296847437824?t=NHXMPdhYFg9xF-WzqGQZYg&s=09) `Twitter thread`
 - [Classification metrics (precision, recall, F1 and Matthews correlation coefficient) vs Balanced Accuracy](https://twitter.com/rasbt/status/1459577884100767753?t=hErn_d7Xvr_zq8eYokAx8w&s=09) `Twitter thread`
 
-### Best Kaggle Notebooks & Competitions
+### Kaggle
 
 - [Best Kaggle Competitions for Beginners](https://www.kaggle.com/getting-started/78482) `Competitions`
 - [Roadmap for Beginners](https://www.kaggle.com/getting-started/73164) `Notebook`
@@ -247,6 +258,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Learning Materials on Kaggle](https://www.kaggle.com/getting-started/39193) `Notebook`
 - [Data Science for tabular data: Advanced Techniques](https://www.kaggle.com/code/vbmokin/data-science-for-tabular-data-advanced-techniques) `Notebook` `Tabular`
 - [Feature Selection with Null Importances](https://www.kaggle.com/code/ogrellier/feature-selection-with-null-importances) `Notebook` `Tabular` `Feature Selection`
+- [The Most Comprehensive List of Kaggle Solutions and Ideas](https://farid.one/kaggle-solutions/) `Competitions` `Solutions`
 - NLP:
   - [Approaching (Almost) Any NLP Problem on Kaggle](https://www.kaggle.com/abhishek/approaching-almost-any-nlp-problem-on-kaggle/notebook) `Notebook`
   - [Long Text Sentiment Classification BERT Windowing](https://www.kaggle.com/code/datajameson/long-text-sentiment-classification-bert-windowing) `Notebook`
@@ -266,6 +278,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 Framework for managing configuration files, tailored for ML projects
 - [Lazy Predict](https://pypi.org/project/lazypredict/) `Package` `ML`  
 Lazy Predict helps build a lot of basic models without much code and helps understand which models works better without any parameter tuning.
+- [Russian Texts Statistics](https://github.com/SergeyShk/ruTS/blob/master/README.en.md) `Package` `Rus` `NLP`
 
 ### Assignments for ML & DL
 
