@@ -15,7 +15,7 @@
   - [Data Science](#data-science)
     - [Machine Learning System Design](#machine-learning-system-design)
     - [Machine Learning](#machine-learning)
-      - [Articles](#articles)
+      - [Applied ML](#applied-ml)
       - [Blog posts](#blog-posts-1)
       - [Blogs](#blogs)
       - [Tutorials](#tutorials)
@@ -130,7 +130,9 @@
 - [Stanford CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) `Course`
 - [Designing Machine Learning Systems by Chip Huyen](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) `Book`
 - [ML System Design](https://ods.ai/tracks/ml-system-design-22) `Course` `Rus`
-- [Шаблон ML System Design Doc от телеграм-канала Reliable ML](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru) `Repository` `Rus`
+- [Шаблон ML System Design Doc от телеграм-канала Reliable ML](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru) `Repository` `Rus`  
+[ML System Design - ML System Design Doc. Лекция-бонус от Reliable ML](https://www.youtube.com/watch?v=PW9TGNr1Vqk&ab_channel=ODSAIRu) `Rus` `Video`
+- [Machine learning design primer by Ibragim Badertdinov](https://github.com/ibragim-bad/machine-learning-design-primer) `Repository`
 
 ### Machine Learning
 
@@ -144,10 +146,11 @@
 - [Учебник по машинному обучению от ШАД Яндекс](https://academy.yandex.ru/handbook/ml) `Rus` `Book`
 - [Машинное обучение (курс лекций, К.В.Воронцов)](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%BE) `Rus` `Course`
 - [Прикладные задачи анализа данных, Александр Дьяконов](https://github.com/Dyakonov/PZAD/tree/master/2020) + [Video](https://www.youtube.com/playlist?list=PLaRUeIuewv8CMFox0oEjlyePUhUmo-x0h) `Rus` `Course`
+
+#### Applied ML
+
 - [Interpretable Machine Learning. A Guide for Making Black Box Models Explainable by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/) `Book`
-
-#### Articles
-
+- [Feature Engineering and Selection: A Practical Approach for Predictive Models by Max Kuhn and Kjell Johnson](http://www.feat.engineering/index.html) `Book`
 - [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning by Sebastian Raschka](https://arxiv.org/abs/1811.12808) `Article`
 
 #### Blog posts
