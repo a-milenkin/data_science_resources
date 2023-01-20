@@ -42,6 +42,7 @@
   - [Algorithms and Data Structures](#algorithms-and-data-structures)
   - [Linux](#linux)
     - [Tutorials](#tutorials-2)
+  - [Team Lead](#team-lead)
 
 ## Interview preparation and knowledge checking
 
@@ -100,11 +101,14 @@
 - [How I got in to Amazon, Microsoft, Google. All from studying these resources](https://levelup.gitconnected.com/how-i-got-in-to-amazon-microsoft-google-all-from-studying-these-resources-31724508ce0e)
 - [Материалы для подготовки по машинному обучению от Тинькофф](https://www.tinkoff.ru/career/it/interview/ml/) `Rus`
 - [Articles, books and videos to help get well-paying tech jobs by TechPays](https://techpays.eu/resources)
+- [How I Cracked the Meta Machine Learning Engineering Interview](https://towardsdatascience.com/how-i-cracked-the-meta-machine-learning-engineering-interview-aa32f64b8e4b)
 
 ### Interview Preparation
 
 - [Interview Query is the best adaptive learning platform for Data Scientists by Data Scientists](https://www.interviewquery.com/)
 - [Как не провалить интервью. Исследование из Стэнфорда о пользе самоуверенности](https://habr.com/ru/company/getmatch/blog/707954/) `Rus`
+- [На этой странице вы узнаете про Data Science направление в Маркете, наш стек технологий, этапы собеседований и материалы, которые могут пригодиться](https://yandex.ru/promo/rec-comms/vkl/market/datascience) `Rus`
+- [IT-собеседование в Тинькофф](https://github.com/Tinkoff/career/tree/main/interview)
 
 ### Courses
 
@@ -209,6 +213,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks by Sebastian Raschka](https://github.com/rasbt/deeplearning-models)
 - [Deep Learning Fundamentals by Sebastian Raschka and Lightning AI](https://lightning.ai/pages/courses/deep-learning-fundamentals/)
 - [Neural Networks: Zero to Hero by Andrej Karpathy](https://karpathy.ai/zero-to-hero.html) `Course`
+- [Deep Learning Tuning Playbook by Google](https://github.com/google-research/tuning_playbook)
 
 #### Blog posts
 
@@ -347,6 +352,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [12 бесплатных материалов по статистике – разберется каждый](https://uproger.com/12-besplatnyh-materialov-po-statistike-razberetsya-kazhdyj/) `Rus`
 - [Математическая статистика. Начало](http://www.mathprofi.ru/matematicheskaya_statistika.html) `Rus`
 - [Z Statistics by Justin Zeltzer](http://www.zstatistics.com/videos/) `Videos`
+- [Seeing theory. A visual introduction to probability and statistics](https://seeing-theory.brown.edu/index.html) `Book` <!--- comment -->
 
 ## SQL
 
@@ -358,6 +364,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [SQL Tutorial](https://mode.com/sql-tutorial/)
 - [SQLBolt. Learn SQL with simple, interactive exercises.](https://sqlbolt.com/)
 - [SQL Tutorial by w3schools](https://www.w3schools.com/sql/)
+- [PostgreSQL Exercises](https://pgexercises.com/)
 
 ## Algorithms and Data Structures
 
@@ -368,11 +375,19 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [Algorithmic concepts By Afshine Amidi and Shervine Amidi](https://superstudy.guide/algorithms-data-structures/foundations/algorithmic-concepts/)
 - [LEETCODE PATTERNS](https://seanprashad.com/leetcode-patterns/)  
 List of questions with patterns + tips
+- [Тренировки по алгоритмам от Яндекса](https://www.youtube.com/playlist?app=desktop&list=PL6Wui14DvQPySdPv5NUqV3i8sDbHkCKC5) `Rus`
 
 ## Linux
 
 - [Linux commands](https://xmind.app/m/WwtB/) `mind map`
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
 
 ### Tutorials
 
 - [The Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) `tutorial`
+
+## Team Lead
+
+- [Everything on team leadership](https://github.com/sharovatov/teamlead)
+- [Team Lead Simulator](https://teamlead.wrike.tech/)
+- [Teamlead Roadmap](https://tlroadmap.io/) `Rus`
