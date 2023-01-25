@@ -204,6 +204,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/) `Course`
 - [CS25: Transformers United V2](https://web.stanford.edu/class/cs25/) `Course`
 - [Full Stack Deep Learning - Course 2022](https://fullstackdeeplearning.com/course/2022/)
+- [11-785 Introduction to Deep Learning from Carnegie Mellon University](https://www.youtube.com/playlist?list=PLp-0K3kfddPxRmjgjm0P1WT6H-gTqE8j9) `Course`
 
 #### Tutorials
 
