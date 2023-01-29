@@ -43,6 +43,9 @@
   - [Linux](#linux)
     - [Tutorials](#tutorials-2)
   - [Team Lead](#team-lead)
+  - [Books](#books)
+    - [Nonfiction](#nonfiction)
+    - [Machine Learning](#machine-learning-1)
 
 ## Interview preparation and knowledge checking
 
@@ -102,6 +105,7 @@
 - [Материалы для подготовки по машинному обучению от Тинькофф](https://www.tinkoff.ru/career/it/interview/ml/) `Rus`
 - [Articles, books and videos to help get well-paying tech jobs by TechPays](https://techpays.eu/resources)
 - [How I Cracked the Meta Machine Learning Engineering Interview](https://towardsdatascience.com/how-i-cracked-the-meta-machine-learning-engineering-interview-aa32f64b8e4b)
+- [What we look for in a resume by Chip Huyen](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html#one-page)
 
 ### Interview Preparation
 
@@ -140,13 +144,13 @@
 
 ### Machine Learning
 
-- [Open Machine Learning Course by Yury Kashnitsky](https://mlcourse.ai/book/index.html) `Free course + Paid additional assignments`  
+- [Open Machine Learning Course by Yury Kashnitsky](https://mlcourse.ai/book/index.html) `Free course + Paid additional assignments`  <!--- comment -->
 [Открытый курс машинного обучения](https://ods.ai/tracks/open-ml-course) `Rus` `Free course + Paid additional assignments`
-- [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer/featured) `Videos`
+- [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer/featured) `Videos` <!--- comment -->
 - [Machine Learning Mastery by Jason Brownlee](https://machinelearningmastery.com/) `Free guides + Paid eBooks`
-- [End to End Machine Learning by Brandon Rohrer](https://end-to-end-machine-learning.teachable.com/courses/) `Course`
-- [Machine Learning Simplified: A gentle introduction to supervised learning by Andrew Wolf](https://themlsbook.com/read) `Free` `Book`
-- [Stanford CS229: Machine Learning by Andrew Ng](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) `Course`
+- [End to End Machine Learning by Brandon Rohrer](https://end-to-end-machine-learning.teachable.com/courses/) `Course` <!--- comment -->
+- [Machine Learning Simplified: A gentle introduction to supervised learning by Andrew Wolf](https://themlsbook.com/read) `Free` `Book` <!--- comment -->
+- [Stanford CS229: Machine Learning by Andrew Ng](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) `Course` <!--- comment -->
 - [Учебник по машинному обучению от ШАД Яндекс](https://academy.yandex.ru/handbook/ml) `Rus` `Book`
 - [Машинное обучение (курс лекций, К.В.Воронцов)](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%BE) `Rus` `Course`
 - [Прикладные задачи анализа данных, Александр Дьяконов](https://github.com/Dyakonov/PZAD/tree/master/2020) + [Video](https://www.youtube.com/playlist?list=PLaRUeIuewv8CMFox0oEjlyePUhUmo-x0h) `Rus` `Course`
@@ -156,6 +160,7 @@
 - [Interpretable Machine Learning. A Guide for Making Black Box Models Explainable by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/) `Book`
 - [Feature Engineering and Selection: A Practical Approach for Predictive Models by Max Kuhn and Kjell Johnson](http://www.feat.engineering/index.html) `Book`
 - [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning by Sebastian Raschka](https://arxiv.org/abs/1811.12808) `Article`
+- [Kaggle Learn](https://www.kaggle.com/learn) `Courses` <!--- comment -->
 
 #### Blog posts
 
@@ -205,6 +210,8 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [CS25: Transformers United V2](https://web.stanford.edu/class/cs25/) `Course`
 - [Full Stack Deep Learning - Course 2022](https://fullstackdeeplearning.com/course/2022/)
 - [11-785 Introduction to Deep Learning from Carnegie Mellon University](https://www.youtube.com/playlist?list=PLp-0K3kfddPxRmjgjm0P1WT6H-gTqE8j9) `Course`
+- [Neuromatch Academy: Deep Learning](https://deeplearning.neuromatch.io/tutorials/intro.html) `Course`
+- [Neural Networks: Zero to Hero by Andrej Karpathy](https://karpathy.ai/zero-to-hero.html)
 
 #### Tutorials
 
@@ -340,7 +347,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 
 ## Math
 
-- [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/)
+- [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/) <!--- comment -->
 - [В Data Science не нужна математика (Почти)](https://habr.com/ru/company/ruvds/blog/676114/) `Rus`
 
 ## Statistics
@@ -354,6 +361,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [Математическая статистика. Начало](http://www.mathprofi.ru/matematicheskaya_statistika.html) `Rus`
 - [Z Statistics by Justin Zeltzer](http://www.zstatistics.com/videos/) `Videos`
 - [Seeing theory. A visual introduction to probability and statistics](https://seeing-theory.brown.edu/index.html) `Book` <!--- comment -->
+- [The Beginner's Guide to Statistical Analysis by Scribbr](https://www.scribbr.com/category/statistics/)
 
 ## SQL
 
@@ -380,15 +388,25 @@ List of questions with patterns + tips
 
 ## Linux
 
-- [Linux commands](https://xmind.app/m/WwtB/) `mind map`
-- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
+- [Linux commands](https://xmind.app/m/WwtB/) `mind map` <!--- comment -->
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) <!--- comment -->
 
 ### Tutorials
 
-- [The Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) `tutorial`
+- [The Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) `tutorial` <!--- comment -->
 
 ## Team Lead
 
 - [Everything on team leadership](https://github.com/sharovatov/teamlead)
 - [Team Lead Simulator](https://teamlead.wrike.tech/)
 - [Teamlead Roadmap](https://tlroadmap.io/) `Rus`
+
+## Books
+
+### Nonfiction
+
+- [Atomic Habits](https://jamesclear.com/atomic-habits) <!--- comment -->
+
+### Machine Learning
+
+- [Machine Learning Q and AI. Expand Your Machine Learning & AI Knowledge With 30 In-Depth Questions and Answers by Sebastian Raschka](https://leanpub.com/machine-learning-q-and-ai/)
