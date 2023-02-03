@@ -38,6 +38,8 @@
   - [Python](#python-1)
   - [Math](#math)
   - [Statistics](#statistics)
+    - [A/B Tests](#ab-tests)
+      - [Blog posts](#blog-posts-4)
   - [SQL](#sql)
   - [Algorithms and Data Structures](#algorithms-and-data-structures)
   - [Linux](#linux)
@@ -46,6 +48,8 @@
   - [Books](#books)
     - [Nonfiction](#nonfiction)
     - [Machine Learning](#machine-learning-1)
+  - [Note-taking system](#note-taking-system)
+    - [Zettelkasten](#zettelkasten)
 
 ## Interview preparation and knowledge checking
 
@@ -93,6 +97,7 @@
 - [Гайд по подготовке CV+Portfolio+Self Presentation+Home task](https://hannalias.notion.site/hannalias/CV-Portfolio-Self-Presentation-Home-task-7c9879f5e2cb4ba9b097a92660c93193) `Rus`
 - [Методика STAR для прохождения структурированных собеседований](https://hr-portal.ru/story/metodika-star-dlya-prohozhdeniya-strukturirovannyh-sobesedovaniy) `Rus`
 - [Как пройти собеседование на английском языке | StarTalk](https://www.youtube.com/watch?v=0zhFfpVuDbQ&ab_channel=GlobalCareer) `Rus` `Video`
+- [Лена Кочева и Таня Дурова - Как эффективно подготовиться к собеседованию на английском](https://youtu.be/qGKBvm4zm48) `Rus` `Video`  
 - [Гостевое выступление Тати Габрусевой, Staff Machine Learning Enjineer, NLP, LinkedIn 25.05.2022](https://youtu.be/Q3i90zkupmA) `Rus` `Video`
 - [Полезные ссылки: Как проходить интервью в DS от Айры](https://docs.google.com/document/d/1N8qCJIUZe9xl_-wYkSmxatQABsttqqDB2rnftCjkP7s/edit) `Rus`
 - [FAANG Interview. Бортовые заметки сообщества](https://faang-interview.github.io/) `Rus`
@@ -102,10 +107,10 @@
 - [Interview Warmup by Google](https://grow.google/certificates/interview-warmup/)
 - [Дайджест уходящего года: релокейт в Европу и США, главное о карьере и сверхзанятости](https://habr.com/ru/amp/post/707854/) `Rus`
 - [How I got in to Amazon, Microsoft, Google. All from studying these resources](https://levelup.gitconnected.com/how-i-got-in-to-amazon-microsoft-google-all-from-studying-these-resources-31724508ce0e)
-- [Материалы для подготовки по машинному обучению от Тинькофф](https://www.tinkoff.ru/career/it/interview/ml/) `Rus`
 - [Articles, books and videos to help get well-paying tech jobs by TechPays](https://techpays.eu/resources)
 - [How I Cracked the Meta Machine Learning Engineering Interview](https://towardsdatascience.com/how-i-cracked-the-meta-machine-learning-engineering-interview-aa32f64b8e4b)
 - [What we look for in a resume by Chip Huyen](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html#one-page)
+- [Не принимай оффер в Data Science, пока…](https://habr.com/ru/company/alfa/blog/709416/) `Rus`
 
 ### Interview Preparation
 
@@ -113,6 +118,7 @@
 - [Как не провалить интервью. Исследование из Стэнфорда о пользе самоуверенности](https://habr.com/ru/company/getmatch/blog/707954/) `Rus`
 - [На этой странице вы узнаете про Data Science направление в Маркете, наш стек технологий, этапы собеседований и материалы, которые могут пригодиться](https://yandex.ru/promo/rec-comms/vkl/market/datascience) `Rus`
 - [IT-собеседование в Тинькофф](https://github.com/Tinkoff/career/tree/main/interview)
+- [Материалы для подготовки по машинному обучению от Тинькофф](https://www.tinkoff.ru/career/it/interview/ml/) `Rus`
 
 ### Courses
 
@@ -125,11 +131,13 @@
 - [Crack the top 40 machine learning interview questions](https://www.educative.io/blog/top-machine-learning-interview-questions)
 - [[Карьера в IT] Главное: что нужно знать, чтобы найти работу, пройти собеседование и выбрать оффер](https://habr.com/ru/company/getmatch/blog/685200/) `Rus`
 - [How I landed 18 FAANG+ software engineer offers after not interviewing for 5 years](https://medium.com/@stevenzhang/how-i-landed-18-faang-software-engineer-offers-after-not-interviewing-for-5-years-fc0dfc957a5d)
+- [Emma Ding | Data Science Interview Blog | Data Interview Pro](https://www.emmading.com/blog-post)
 
 ### Other
 
 - [Data Scientist total compensation and salaries in the Netherlands](https://techpays.com/europe/netherlands/data_scientist)
 - [Programmer Competency Matrix](https://sijinjoseph.netlify.app/programmer-competency-matrix/)
+- [Just know stuff (or, how to achieve success in a machine learning PhD)](https://kidger.site/thoughts/just-know-stuff/)
 
 ## Data Science
 
@@ -141,6 +149,7 @@
 - [Шаблон ML System Design Doc от телеграм-канала Reliable ML](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru) `Repository` `Rus`  
 [ML System Design - ML System Design Doc. Лекция-бонус от Reliable ML](https://www.youtube.com/watch?v=PW9TGNr1Vqk&ab_channel=ODSAIRu) `Rus` `Video`
 - [Machine learning design primer by Ibragim Badertdinov](https://github.com/ibragim-bad/machine-learning-design-primer) `Repository`
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer#study-guide) `Repository`
 
 ### Machine Learning
 
@@ -173,6 +182,10 @@
 - [Machine Learning for Everyone. In simple words. With real-world examples](https://vas3k.com/blog/machine_learning/)
 - [Мое первое серебро на Kaggle или как стабилизировать ML модель и подпрыгнуть на 700 мест вверх](https://habr.com/ru/post/704440/) `Rus`
 - [Soccer Analytics 2022 Review](https://www.janvanhaaren.be/2022/12/29/soccer-analytics-review-2022.html) `football`
+- [Эй-Яй, крипта, MLOps и командный пет-проджект by yorko](https://habr.com/ru/company/ods/blog/673376/) `Rus` `MLOps`
+- [Understanding UMAP](https://pair-code.github.io/understanding-umap/)
+- [A new perspective on Shapley values, part I: Intro to Shapley and SHAP](https://edden-gerber.github.io/shapley-part-1/) `SHAP` `explainability` `interpretability`
+- [A new perspective on Shapley values, part II: The Naïve Shapley method](https://edden-gerber.github.io/shapley-part-2/) `SHAP` `explainability` `interpretability`
 
 #### Blogs
 
@@ -212,6 +225,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [11-785 Introduction to Deep Learning from Carnegie Mellon University](https://www.youtube.com/playlist?list=PLp-0K3kfddPxRmjgjm0P1WT6H-gTqE8j9) `Course`
 - [Neuromatch Academy: Deep Learning](https://deeplearning.neuromatch.io/tutorials/intro.html) `Course`
 - [Neural Networks: Zero to Hero by Andrej Karpathy](https://karpathy.ai/zero-to-hero.html)
+- [Efficient Deep Learning Systems by Yandex School of Data Analysis](https://github.com/mryab/efficient-dl-systems) `Course` `Repository`
 
 #### Tutorials
 
@@ -222,6 +236,8 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Deep Learning Fundamentals by Sebastian Raschka and Lightning AI](https://lightning.ai/pages/courses/deep-learning-fundamentals/)
 - [Neural Networks: Zero to Hero by Andrej Karpathy](https://karpathy.ai/zero-to-hero.html) `Course`
 - [Deep Learning Tuning Playbook by Google](https://github.com/google-research/tuning_playbook)
+- [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+- [Multimodal Deep Learning](https://slds-lmu.github.io/seminar_multimodal_dl/index.html) `Book`
 
 #### Blog posts
 
@@ -244,17 +260,21 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Learn to Love Working with Vector Embeddings by Pinecone](https://www.pinecone.io/learn/) `Course`
 - [Transformer Recipe by Elvis Saravia](https://github.com/dair-ai/Transformers-Recipe) `Repository`
 - [CS11-711 Advanced Natural Language Processing (at Carnegie Mellon University's Language Technology Institute)](http://www.phontron.com/class/anlp2022/) + [Video](https://youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z)  + [Assignments](https://github.com/neubig/nlp-from-scratch-assignment-2022) `Course`
+- [Stanford Webinar - GPT-3 & Beyond](https://youtu.be/-lnHHWRCDGk) `Video`
 
 #### Blog posts
 
 - [Мультиклассификация экстремально коротких текстов классическими методами машинного обучения](https://newtechaudit.ru/multiklassifikacziya-ekstremalno-korotkih-tekstov-klassicheskimi-metodami-mashinnogo-obucheniya/) `Rus article`
 - [Рейтинг русскоязычных энкодеров предложений](https://habr.com/ru/post/669674/) `Rus article`
 - [Как определять пользовательские намерения, о которых мы узнали 5 минут назад](https://habr.com/ru/company/tinkoff/blog/696756/) `Rus article`
+- [Самая большая BERT-подобная модель на русском, которая поместится на ваш компьютер](https://habr.com/ru/company/yandex/blog/688234/)
+- [ChatGPT как инструмент для поиска: решаем основную проблему](https://habr.com/ru/company/ods/blog/709222/)
 
 ### Computer Vision
 
 - [Нейронные сети и компьютерное зрение](https://stepik.org/course/50352/syllabus) `Rus` `Course`
 - [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/) + [Videos](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&ab_channel=StanfordUniversitySchoolofEngineering) `Course`
+- [EECS 442: Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs442/WI2021/) + [Videos](https://m.bilibili.com/video/BV1BV411n7Km) `Course`
 
 ### RecSys
 
@@ -338,6 +358,8 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [Extra materials for ml-mipt course](https://github.com/girafe-ai/ml-mipt/blob/master/extra_materials.md) `Repository`
 - [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi#tutorials) `Repository`
 - [Curated papers, articles, and blogs on data science & machine learning in production](https://github.com/eugeneyan/applied-ml) `Repository`
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) `Repository`
+- [Open Source Society University. Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science#summary) `Repository`
 
 ## Python
 
@@ -363,6 +385,12 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [Seeing theory. A visual introduction to probability and statistics](https://seeing-theory.brown.edu/index.html) `Book` <!--- comment -->
 - [The Beginner's Guide to Statistical Analysis by Scribbr](https://www.scribbr.com/category/statistics/)
 
+### A/B Tests
+
+#### Blog posts
+
+- [Шесть причин, почему ваши A/B-тесты не работают](https://habr.com/ru/company/ozontech/blog/712306/) `Rus`
+
 ## SQL
 
 - [Основы SQL](https://stepik.org/course/51562/info) + [Продвинутый SQL](https://stepik.org/course/55776/info) + [Проектирование баз данных](https://stepik.org/course/51675/info) `Rus` `Paid` `Courses`
@@ -384,7 +412,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [Algorithmic concepts By Afshine Amidi and Shervine Amidi](https://superstudy.guide/algorithms-data-structures/foundations/algorithmic-concepts/)
 - [LEETCODE PATTERNS](https://seanprashad.com/leetcode-patterns/)  
 List of questions with patterns + tips
-- [Тренировки по алгоритмам от Яндекса](https://www.youtube.com/playlist?app=desktop&list=PL6Wui14DvQPySdPv5NUqV3i8sDbHkCKC5) `Rus`
+- [Тренировки по алгоритмам от Яндекса](https://yandex.ru/yaintern/algorithm-training_1) `Rus`
 
 ## Linux
 
@@ -406,7 +434,15 @@ List of questions with patterns + tips
 ### Nonfiction
 
 - [Atomic Habits](https://jamesclear.com/atomic-habits) <!--- comment -->
+- [9 Books I Read In 2022 That Already Reshaped My Life](https://kris-ograbek.medium.com/9-books-i-read-in-2022-that-already-reshaped-my-life-e9076c639736)
+- [Reading List by Lex Fridman](https://lexfridman.com/reading-list/)
 
 ### Machine Learning
 
 - [Machine Learning Q and AI. Expand Your Machine Learning & AI Knowledge With 30 In-Depth Questions and Answers by Sebastian Raschka](https://leanpub.com/machine-learning-q-and-ai/)
+
+## Note-taking system
+
+### Zettelkasten
+
+- [The FUN and EFFICIENT note-taking system I use in my PhD](https://youtu.be/L9SLlxaEEXY)
