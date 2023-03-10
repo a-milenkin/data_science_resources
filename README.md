@@ -187,6 +187,7 @@
 - [Feature Engineering and Selection: A Practical Approach for Predictive Models by Max Kuhn and Kjell Johnson](http://www.feat.engineering/index.html) `Book`
 - [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning by Sebastian Raschka](https://arxiv.org/abs/1811.12808) `Article`
 - [Kaggle Learn](https://www.kaggle.com/learn) `Courses` <!--- comment -->
+- [Geographic Data Science with Python](https://geographicdata.science/book/notebooks/12_feature_engineering.html) <!--- comment -->
 
 #### Blog posts
 
@@ -385,6 +386,8 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 
 - [Courses at Stanford relative to AI](https://burlachenkok.github.io/Courses-at-Stanford-relative-to-AI/)
 - [Путь Лемминга. Про планирование карьеры, выгорание, здоровье, конкуренцию и т.п.](https://youtube.com/playlist?list=PLjnbr2ZalOERJFXH8CjggCtJc0Uz7wZb0) `Rus` `Course`
+- [Публичные выступления](https://telegra.ph/Publichnye-vystupleniya-03-08) `Rus`
+- [5 Mindset Strategies For Success And Prosperity](https://www.coursecorrectioncoaching.com/mindset-strategies-for-success/)
 
 ## Lists of materials
 
@@ -482,6 +485,7 @@ List of questions with patterns + tips
 ### Machine Learning
 
 - [Machine Learning Q and AI. Expand Your Machine Learning & AI Knowledge With 30 In-Depth Questions and Answers by Sebastian Raschka](https://leanpub.com/machine-learning-q-and-ai/)
+- [Clean Machine Learning Code](https://leanpub.com/cleanmachinelearningcode)
 
 ## Note-taking system
 
