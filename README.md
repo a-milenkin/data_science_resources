@@ -56,7 +56,9 @@
   - [Note-taking system](#note-taking-system)
     - [Anki](#anki)
     - [Zettelkasten](#zettelkasten)
+  - [Newsletters](#newsletters)
   - [Other](#other-2)
+    - [Website development](#website-development)
 
 ## Interview preparation and knowledge checking
 
@@ -119,6 +121,7 @@
 - [What we look for in a resume by Chip Huyen](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html#one-page)
 - [Не принимай оффер в Data Science, пока…](https://habr.com/ru/company/alfa/blog/709416/) `Rus`
 - [Стратегия поиска работы за границей: что писать, с кем говорить и к чему готовиться](https://www.forbes.ru/mneniya/484547-strategia-poiska-raboty-za-granicej-cto-pisat-s-kem-govorit-i-k-cemu-gotovit-sa)
+- [Data Science Interview Guide](https://docs.google.com/spreadsheets/d/1djhTq4vD72lzuLY2rCMOkkSuNG2rRf_C5PwNMjcIAMk/edit#gid=859146723)
 
 ### Interview Preparation
 
@@ -152,7 +155,7 @@
 
 ### System Design
 
-- [The System Design Primer](https://github.com/donnemartin/system-design-primer#study-guide) `Repository`
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer#study-guide) `Repository` <!--- comment -->
 - [Algorithms you should know before you take system design interviews](https://blog.bytebytego.com/p/algorithms-you-should-know-before)
 - [Top 14 System Design interview questions for software engineers](https://www.educative.io/blog/top-10-system-design-interview-questions#proximity)
 - [System Design for Interviews and Beyond](https://systemdesignthinking.thinkific.com/courses/system-design-for-interviews-and-beyond) `Course`
@@ -161,7 +164,7 @@
 
 ### Machine Learning System Design
 
-- [Stanford CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) `Course`
+- [Stanford CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) `Course` <!--- comment -->
 - [Designing Machine Learning Systems by Chip Huyen](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) `Book`
 - [ML System Design](https://ods.ai/tracks/ml-system-design-22) `Course` `Rus`
 - [Шаблон ML System Design Doc от телеграм-канала Reliable ML](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru) `Repository` `Rus`  
@@ -180,6 +183,7 @@
 - [Учебник по машинному обучению от ШАД Яндекс](https://academy.yandex.ru/handbook/ml) `Rus` `Book`
 - [Машинное обучение (курс лекций, К.В.Воронцов)](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%BE) `Rus` `Course`
 - [Прикладные задачи анализа данных, Александр Дьяконов](https://github.com/Dyakonov/PZAD/tree/master/2020) + [Video](https://www.youtube.com/playlist?list=PLaRUeIuewv8CMFox0oEjlyePUhUmo-x0h) `Rus` `Course`
+- [Google Machine Learning Courses](https://developers.google.com/machine-learning) `Course`
 
 #### Applied ML
 
@@ -219,7 +223,6 @@
 - [Dan Bader](https://dbader.org/)
 - [Matthew Brett](https://matthew-brett.github.io/teaching/index.html)
   - [Introducing principal component analysis](https://matthew-brett.github.io/teaching/pca_introduction.html)
-
 
 #### Tutorials
 
@@ -261,6 +264,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Deep Learning Tuning Playbook by Google](https://github.com/google-research/tuning_playbook)
 - [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 - [Multimodal Deep Learning](https://slds-lmu.github.io/seminar_multimodal_dl/index.html) `Book`
+- [PyTorch Fundamentals by Microsoft](https://learn.microsoft.com/en-us/training/paths/pytorch-fundamentals/?wt.mc_id=aiml-26954-cxa)
 
 #### Blog posts
 
@@ -413,7 +417,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 ## Statistics
 
 - [Основы статистики](https://stepik.org/course/76/info) + [Основы статистики. Часть 2](https://stepik.org/course/524/info) + [Основы статистики. Часть 3](https://stepik.org/course/2152/info) `Rus` `Course`
-- [Statistics and probability from Khan Academy](https://www.khanacademy.org/math/statistics-probability) `Course`
+- [Statistics and probability from Khan Academy](https://www.khanacademy.org/math/statistics-probability) `Course`  <!--- comment -->
 - [CS109: Probability for Computer Scientists](https://web.stanford.edu/class/cs109/) + [Course Book](https://chrispiech.github.io/probabilityForComputerScientists/en/index.html) `Course`
 - [Математическая статистика и AB-тестирование](https://github.com/FUlyankin/matstat_coursera) `Repository`
 - [Стратификация. Как разбиение выборки повышает чувствительность A/B теста](https://habr.com/ru/company/X5Tech/blog/596279/) `Rus article`
@@ -435,8 +439,8 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 ## SQL
 
 - [Основы SQL](https://stepik.org/course/51562/info) + [Продвинутый SQL](https://stepik.org/course/55776/info) + [Проектирование баз данных](https://stepik.org/course/51675/info) `Rus` `Paid` `Courses`
-- [Интерактивный тренажер по SQL](https://stepik.org/course/63054/info) `Rus` `Course`
-- [Онлайн тренажер SQL Academy](https://sql-academy.org/ru/trainer?sort=byId) `Rus` `Course`
+- [Интерактивный тренажер по SQL](https://stepik.org/course/63054/info) `Rus` `Course`  
+- [Онлайн тренажер SQL Academy](https://sql-academy.org/en) `Course`  <!--- comment -->
 - [Ace the SQL & Data Science Interview](https://datalemur.com/)
 - [Practice SQL](https://www.sql-practice.com/)
 - [SQL Tutorial](https://mode.com/sql-tutorial/)
@@ -446,7 +450,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 
 ## Algorithms and Data Structures
 
-- [LeetCode Explore](https://leetcode.com/explore/) `Free + Paid` `Course`
+- [LeetCode Explore](https://leetcode.com/explore/) `Free + Paid` `Course`  <!--- comment -->
 - [Algoprog](https://algoprog.ru/) `Rus` `Free + Paid` `Course`
 - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/info) `Free` `Rus` `Course`
 - [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/info) `Free` `Rus` `Course`
@@ -454,6 +458,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [LEETCODE PATTERNS](https://seanprashad.com/leetcode-patterns/)  
 List of questions with patterns + tips
 - [Тренировки по алгоритмам от Яндекса](https://yandex.ru/yaintern/algorithm-training_1) `Rus`
+- [NeetCode. A better way to prepare for coding interviews.](https://neetcode.io/roadmap)  <!--- comment -->
 
 ## Linux
 
@@ -497,6 +502,19 @@ List of questions with patterns + tips
 
 - [The FUN and EFFICIENT note-taking system I use in my PhD](https://youtu.be/L9SLlxaEEXY)
 
+## Newsletters
+
+- [MACHINE LEARNING QUESTIONS](https://today.bnomial.com/)
+- [The Pragmatic Engineer by Gergely Orosz](https://newsletter.pragmaticengineer.com/)
+- [Nick Singh's Tech & Careers Newsletter](https://www.nicksingh.com/signup)
+- [Mindful Modeler by Christoph Molnar ](https://mindfulmodeler.substack.com/)
+- [Tuesday Musings by Radek Osmulski](https://newsletter.radekosmulski.com/)
+- [Newsletter by Emma Ding](https://www.emmading.com/)
+
 ## Other
 
 - [Hamming, "You and Your Research"](https://gist.github.com/EgorBu/dabfd3c386021f8b19eea5e61a5fed5f)
+
+### Website development
+
+- [Crafting My Personal Website: Jekyll, GitHub Pages, and a Custom Domain](https://andlukyane.com/blog/how-i-created-this-website)
