@@ -12,7 +12,8 @@
     - [Courses](#courses)
     - [Blog posts](#blog-posts)
     - [Other](#other)
-  - [Software Engineering](#software-engineering)
+  - [Computer Science](#computer-science)
+    - [General](#general)
     - [System Design](#system-design)
   - [Data Science](#data-science)
     - [Machine Learning System Design](#machine-learning-system-design)
@@ -26,6 +27,9 @@
       - [Tutorials](#tutorials-1)
       - [Blog posts](#blog-posts-2)
     - [NLP](#nlp)
+      - [Courses](#courses-1)
+      - [General](#general-1)
+      - [Transformers](#transformers)
       - [Tutorials](#tutorials-2)
       - [Blog posts](#blog-posts-3)
     - [Computer Vision](#computer-vision)
@@ -43,6 +47,7 @@
   - [Math](#math)
   - [Statistics](#statistics)
     - [A/B Tests](#ab-tests)
+      - [General](#general-2)
       - [Blog posts](#blog-posts-4)
   - [SQL](#sql)
   - [Algorithms and Data Structures](#algorithms-and-data-structures)
@@ -50,13 +55,21 @@
     - [Tutorials](#tutorials-3)
   - [Team Lead](#team-lead)
   - [Books](#books)
-    - [Maching Learning](#maching-learning)
+    - [NLP](#nlp-1)
+    - [System Design](#system-design-1)
     - [Nonfiction](#nonfiction)
     - [Machine Learning](#machine-learning-1)
   - [Note-taking system](#note-taking-system)
     - [Anki](#anki)
     - [Zettelkasten](#zettelkasten)
   - [Newsletters](#newsletters)
+    - [Data Science](#data-science-1)
+    - [Preparing for interviews](#preparing-for-interviews)
+    - [NLP](#nlp-2)
+    - [Machine Learning \& Deep Learning](#machine-learning--deep-learning)
+    - [Productivity](#productivity)
+    - [Software Engineering](#software-engineering)
+    - [System Design](#system-design-2)
   - [Other](#other-2)
     - [Website development](#website-development)
 
@@ -122,6 +135,7 @@
 - [Не принимай оффер в Data Science, пока…](https://habr.com/ru/company/alfa/blog/709416/) `Rus`
 - [Стратегия поиска работы за границей: что писать, с кем говорить и к чему готовиться](https://www.forbes.ru/mneniya/484547-strategia-poiska-raboty-za-granicej-cto-pisat-s-kem-govorit-i-k-cemu-gotovit-sa)
 - [Data Science Interview Guide](https://docs.google.com/spreadsheets/d/1djhTq4vD72lzuLY2rCMOkkSuNG2rRf_C5PwNMjcIAMk/edit#gid=859146723)
+- [Tech Interview Handbook. Free curated interview preparation materials for busy people](https://www.techinterviewhandbook.org/)
 
 ### Interview Preparation
 
@@ -151,7 +165,11 @@
 - [Programmer Competency Matrix](https://sijinjoseph.netlify.app/programmer-competency-matrix/)
 - [Just know stuff (or, how to achieve success in a machine learning PhD)](https://kidger.site/thoughts/just-know-stuff/)
 
-## Software Engineering
+## Computer Science
+
+### General
+
+- [Open Source Society University](https://github.com/ossu/computer-science) `Repository`
 
 ### System Design
 
@@ -192,6 +210,7 @@
 - [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning by Sebastian Raschka](https://arxiv.org/abs/1811.12808) `Article`
 - [Kaggle Learn](https://www.kaggle.com/learn) `Courses` <!--- comment -->
 - [Geographic Data Science with Python](https://geographicdata.science/book/notebooks/12_feature_engineering.html) <!--- comment -->
+- [WTTE-RNN - Less hacky churn prediction](https://ragulpr.github.io/2016/12/22/WTTE-RNN-Hackless-churn-modeling/)
 
 #### Blog posts
 
@@ -209,6 +228,7 @@
 - [A new perspective on Shapley values, part I: Intro to Shapley and SHAP](https://edden-gerber.github.io/shapley-part-1/) `SHAP` `explainability` `interpretability`
 - [A new perspective on Shapley values, part II: The Naïve Shapley method](https://edden-gerber.github.io/shapley-part-2/) `SHAP` `explainability` `interpretability`
 - [10 первых ошибок в карьере ML-инженера](https://habr.com/ru/post/718942/) `Rus`
+- [The difference between good and great engineers](https://www.intercom.com/blog/traits-of-exceptional-engineers/)
 
 #### Blogs
 
@@ -223,12 +243,12 @@
 - [Dan Bader](https://dbader.org/)
 - [Matthew Brett](https://matthew-brett.github.io/teaching/index.html)
   - [Introducing principal component analysis](https://matthew-brett.github.io/teaching/pca_introduction.html)
+- [Amit Chaudhary](https://amitness.com/)
 
 #### Tutorials
 
 - [CatBoost - An In-Depth Guide](https://coderzcolumn.com/tutorials/machine-learning/catboost-an-in-depth-guide-python) `tutorial`
 - [Введение в библиотеку Transformers и платформу Hugging Face](https://habr.com/ru/post/704592/) `Rus`
-- [R2D3 is an experiment in expressing statistical thinking with interactive design](http://www.r2d3.us/) `visualization`
 - [Build a Telegram chatbot with any AI model under the hood](https://medium.com/@galperovich/build-a-telegram-chatbot-with-any-ai-model-under-the-hood-62f9a8675d81)
 
 ### MLOps
@@ -273,26 +293,34 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 
 ### NLP
 
+#### Courses
+
 - [Нейронные сети и обработка текста](https://stepik.org/course/54098/info) `Rus` `Course`
 - [Stanford CS224N: NLP with Deep Learning](https://web.stanford.edu/class/cs224n/) + [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) `Course`
 - [NLP Course | For You by Lena Voita](https://lena-voita.github.io/nlp_course.html) + [YSDA Natural Language Processing course](https://github.com/yandexdataschool/nlp_course) `Rus videos + Eng guides` `Course`
 - [Hugging Face course](https://huggingface.co/course/chapter0) `Course`
-- [Working With Text Data using Sklearn](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html#extracting-features-from-text-files) + [Text feature extraction using Sklearn](https://scikit-learn.org/stable/modules/feature_extraction.html#text-feature-extraction) `Guide`
-- [Recommendations for Getting Started with NLP by Elvis](https://elvissaravia.substack.com/p/my-recommendations-for-getting-started) `Paid` `Recommendations`
 - [Natural Language Processing course by Valentin Malykh](https://ods.ai/tracks/nlp-course) `Course`
-- [Speech and Language Processing by Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/) `Book`
 - [Stanford LSA 311: Computational Lexical Semantics by Dan Jurafsky](https://web.stanford.edu/~jurafsky/li15/) `Course`
 - [Stanford CS224U: Natural Language Understanding](https://web.stanford.edu/class/cs224u/index.html) `Course`
 - [Введение в обработку естественного языка](https://compscicenter.ru/courses/introduction-nlp/2019-autumn/) `Rus` `Course`
 - [Stanford CS 224V Conversational Virtual Assistants with Deep Learning](https://web.stanford.edu/class/cs224v/schedule.html) `Course`
 - [Learn to Love Working with Vector Embeddings by Pinecone](https://www.pinecone.io/learn/) `Course`
-- [Transformer Recipe by Elvis Saravia](https://github.com/dair-ai/Transformers-Recipe) `Repository`
 - [CS11-711 Advanced Natural Language Processing (at Carnegie Mellon University's Language Technology Institute)](http://www.phontron.com/class/anlp2022/) + [Video](https://youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z)  + [Assignments](https://github.com/neubig/nlp-from-scratch-assignment-2022) `Course`
-- [Stanford Webinar - GPT-3 & Beyond](https://youtu.be/-lnHHWRCDGk) `Video`
 
-#### Tutorials 
+#### General
+
+- [Recommendations for Getting Started with NLP by Elvis](https://elvissaravia.substack.com/p/my-recommendations-for-getting-started) `Paid` `Recommendations`
+
+#### Transformers
+
+- [Stanford Webinar - GPT-3 & Beyond](https://youtu.be/-lnHHWRCDGk) `Video`
+- [Transformer Recipe by Elvis Saravia](https://github.com/dair-ai/Transformers-Recipe) `Repository`
+- [Transformer, explained in detail by Igor Kotenkov](https://youtu.be/iOrNbK2T92M) `Rus` `Video`
+
+#### Tutorials
 
 - [Train and Fine-Tune Sentence Transformers Models](https://huggingface.co/blog/how-to-train-sentence-transformers)
+- [Working With Text Data using Sklearn](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html#extracting-features-from-text-files) + [Text feature extraction using Sklearn](https://scikit-learn.org/stable/modules/feature_extraction.html#text-feature-extraction) `Guide`
 
 #### Blog posts
 
@@ -431,6 +459,11 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 
 ### A/B Tests
 
+#### General
+
+- [Подборка ссылок по A/B тестированию от Валеры Бабушкина](https://uberkinder.notion.site/A-B-8bcc0fdc69bb4a0997a7d767e1a9d94b)
+- [R2D3 is an experiment in expressing statistical thinking with interactive design](http://www.r2d3.us/) `visualization`
+
 #### Blog posts
 
 - [Шесть причин, почему ваши A/B-тесты не работают](https://habr.com/ru/company/ozontech/blog/712306/) `Rus`
@@ -477,9 +510,13 @@ List of questions with patterns + tips
 
 ## Books
 
-### Maching Learning
+### NLP
 
-- [Reliable Machine Learning: Applying SRE Principles to ML in Production by Cathy Chen](https://www.amazon.com/Reliable-Machine-Learning-Principles-Production/dp/1098106229/ref=sr_1_9?crid=2LKWLWL9VVED7&keywords=SRE&qid=1677242699&sprefix=sre%2Caps%2C244&sr=8-9)
+- [Speech and Language Processing by Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/) `Book`
+
+### System Design
+
+- [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/)
 
 ### Nonfiction
 
@@ -491,6 +528,7 @@ List of questions with patterns + tips
 
 - [Machine Learning Q and AI. Expand Your Machine Learning & AI Knowledge With 30 In-Depth Questions and Answers by Sebastian Raschka](https://leanpub.com/machine-learning-q-and-ai/)
 - [Clean Machine Learning Code](https://leanpub.com/cleanmachinelearningcode)
+- [Reliable Machine Learning: Applying SRE Principles to ML in Production by Cathy Chen](https://www.amazon.com/Reliable-Machine-Learning-Principles-Production/dp/1098106229/ref=sr_1_9?crid=2LKWLWL9VVED7&keywords=SRE&qid=1677242699&sprefix=sre%2Caps%2C244&sr=8-9)
 
 ## Note-taking system
 
@@ -504,12 +542,43 @@ List of questions with patterns + tips
 
 ## Newsletters
 
-- [MACHINE LEARNING QUESTIONS](https://today.bnomial.com/)
-- [The Pragmatic Engineer by Gergely Orosz](https://newsletter.pragmaticengineer.com/)
+### Data Science
+
+- [Data Science Simplified](https://mathdatasimplified.com/subscribe/)
+- [Beyond Data by Adam Sroka][https://newsletter.adamsroka.co.uk/]
+
+### Preparing for interviews
+
 - [Nick Singh's Tech & Careers Newsletter](https://www.nicksingh.com/signup)
-- [Mindful Modeler by Christoph Molnar ](https://mindfulmodeler.substack.com/)
-- [Tuesday Musings by Radek Osmulski](https://newsletter.radekosmulski.com/)
 - [Newsletter by Emma Ding](https://www.emmading.com/)
+- [The MLnotes Newsletter](https://mlnotes.substack.com/)
+
+### NLP
+
+- [NLP Newsletter](https://nlpnews.substack.com/)
+
+### Machine Learning & Deep Learning
+
+- [MACHINE LEARNING QUESTIONS](https://today.bnomial.com/) <!--- comment -->
+- [Mindful Modeler by Christoph Molnar](https://mindfulmodeler.substack.com/)
+- [Tuesday Musings by Radek Osmulski](https://newsletter.radekosmulski.com/)
+- [The Batch. What Matters in AI Right Now](https://www.deeplearning.ai/the-batch/)
+- [Newsletter by Eugene Yan](https://eugeneyan.com/subscribe/)
+- [Boris Again](https://borisagain.substack.com/)
+- [Ahead of AI by Sebastian Raschka](https://magazine.sebastianraschka.com/)
+- [Underfitted by Santiago Valdarrama](https://underfitted.svpino.com/)
+
+### Productivity
+
+- [The 3-2-1 Newsletter](https://jamesclear.com/3-2-1)
+
+### Software Engineering
+
+- [The Pragmatic Engineer by Gergely Orosz](https://newsletter.pragmaticengineer.com/)
+
+### System Design
+
+- [ByteByteGo Newsletter](https://blog.bytebytego.com/)
 
 ## Other
 
