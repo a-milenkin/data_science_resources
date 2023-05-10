@@ -6,6 +6,7 @@
   - [Interview preparation and knowledge checking](#interview-preparation-and-knowledge-checking)
     - [Questions](#questions)
     - [Python](#python)
+    - [Deep Learning](#deep-learning)
     - [Behavioural interview](#behavioural-interview)
     - [Tips](#tips)
     - [Interview Preparation](#interview-preparation)
@@ -23,7 +24,7 @@
       - [Blogs](#blogs)
       - [Tutorials](#tutorials)
     - [MLOps](#mlops)
-    - [Deep Learning](#deep-learning)
+    - [Deep Learning](#deep-learning-1)
       - [Tutorials](#tutorials-1)
       - [Blog posts](#blog-posts-2)
     - [NLP](#nlp)
@@ -55,15 +56,17 @@
     - [Tutorials](#tutorials-3)
   - [Team Lead](#team-lead)
   - [Books](#books)
+    - [Data Science](#data-science-1)
     - [NLP](#nlp-1)
     - [System Design](#system-design-1)
     - [Nonfiction](#nonfiction)
     - [Machine Learning](#machine-learning-1)
+    - [Machine Learning System Design](#machine-learning-system-design-1)
   - [Note-taking system](#note-taking-system)
     - [Anki](#anki)
     - [Zettelkasten](#zettelkasten)
   - [Newsletters](#newsletters)
-    - [Data Science](#data-science-1)
+    - [Data Science](#data-science-2)
     - [Preparing for interviews](#preparing-for-interviews)
     - [NLP](#nlp-2)
     - [Machine Learning \& Deep Learning](#machine-learning--deep-learning)
@@ -71,7 +74,9 @@
     - [Software Engineering](#software-engineering)
     - [System Design](#system-design-2)
   - [Other](#other-2)
+    - [Reading](#reading)
     - [Website development](#website-development)
+  - [Articles](#articles)
 
 ## Interview preparation and knowledge checking
 
@@ -105,6 +110,10 @@
 - [53 Python Interview Questions and Answers](https://towardsdatascience.com/53-python-interview-questions-and-answers-91fa311eec3f) `Questions` `Python`
 - [Вопросы на собеседовании Python, ответы, на которые вам стоит знать](https://uproger.com/20-voprosov-dlya-python-sobesedovanij-otvety-na-kotorye-vam-stoit-znat/) `Questions` `Python` `Rus`
 
+### Deep Learning
+
+- [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://arxiv.org/abs/2201.00650)
+
 ### Behavioural interview
 
 - [41 Behavioural Interview Questions You Must Know (Best Answers Included)](https://www.themartec.com/insidelook/behavioral-interview-questions)
@@ -136,6 +145,7 @@
 - [Стратегия поиска работы за границей: что писать, с кем говорить и к чему готовиться](https://www.forbes.ru/mneniya/484547-strategia-poiska-raboty-za-granicej-cto-pisat-s-kem-govorit-i-k-cemu-gotovit-sa)
 - [Data Science Interview Guide](https://docs.google.com/spreadsheets/d/1djhTq4vD72lzuLY2rCMOkkSuNG2rRf_C5PwNMjcIAMk/edit#gid=859146723)
 - [Tech Interview Handbook. Free curated interview preparation materials for busy people](https://www.techinterviewhandbook.org/)
+- [Разбор резюме Data Scientist в прямом эфире](https://www.youtube.com/live/Khh5D97nqpE?feature=share) `Rus` `Video`
 
 ### Interview Preparation
 
@@ -209,7 +219,7 @@
 - [Feature Engineering and Selection: A Practical Approach for Predictive Models by Max Kuhn and Kjell Johnson](http://www.feat.engineering/index.html) `Book`
 - [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning by Sebastian Raschka](https://arxiv.org/abs/1811.12808) `Article`
 - [Kaggle Learn](https://www.kaggle.com/learn) `Courses` <!--- comment -->
-- [Geographic Data Science with Python](https://geographicdata.science/book/notebooks/12_feature_engineering.html) <!--- comment -->
+- [Geographic Data Science with Python](https://geographicdata.science/book/notebooks/12_feature_engineering.html) `Geo` <!--- comment -->
 - [WTTE-RNN - Less hacky churn prediction](https://ragulpr.github.io/2016/12/22/WTTE-RNN-Hackless-churn-modeling/)
 
 #### Blog posts
@@ -229,6 +239,9 @@
 - [A new perspective on Shapley values, part II: The Naïve Shapley method](https://edden-gerber.github.io/shapley-part-2/) `SHAP` `explainability` `interpretability`
 - [10 первых ошибок в карьере ML-инженера](https://habr.com/ru/post/718942/) `Rus`
 - [The difference between good and great engineers](https://www.intercom.com/blog/traits-of-exceptional-engineers/)
+- [Understanding the Bias-Variance Tradeoff by Seema Singh](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
+- [The “Bias-Variance Trade-Off” Explained Practically (In Python)](https://towardsdatascience.com/the-bias-variance-trade-off-explained-practically-in-python-48cf29d9e900)
+- [PySpark для аналитика. Как правильно просить ресурсы и как понять, сколько нужно брать](https://habr.com/ru/companies/avito/articles/732870/?erid=2VtzqxjG1Yk&erid=2Vtzqwxo44G) `Rus` `Spark`
 
 #### Blogs
 
@@ -244,6 +257,9 @@
 - [Matthew Brett](https://matthew-brett.github.io/teaching/index.html)
   - [Introducing principal component analysis](https://matthew-brett.github.io/teaching/pca_introduction.html)
 - [Amit Chaudhary](https://amitness.com/)
+- [Andrej Karpathy](http://karpathy.github.io/)
+- [Jay Alammar](https://jalammar.github.io/)
+- [Lilian Weng](https://lilianweng.github.io/)
 
 #### Tutorials
 
@@ -258,6 +274,7 @@
 - [MLOps и production подход к ML исследованиям](https://ods.ai/tracks/ml-in-production-spring-22) `Course` `Rus`
 - [ML System Design. Autumn 22/23](https://ods.ai/tracks/ml-system-design-22) `Course` `Rus`
 - [MLOps Guide](https://mlops-guide.github.io/)
+- [MLOps guide by Chip Hyyen](https://huyenchip.com/mlops/)
 
 ### Deep Learning
 
@@ -316,6 +333,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Stanford Webinar - GPT-3 & Beyond](https://youtu.be/-lnHHWRCDGk) `Video`
 - [Transformer Recipe by Elvis Saravia](https://github.com/dair-ai/Transformers-Recipe) `Repository`
 - [Transformer, explained in detail by Igor Kotenkov](https://youtu.be/iOrNbK2T92M) `Rus` `Video`
+- [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide) `Repository`
 
 #### Tutorials
 
@@ -441,6 +459,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 
 - [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/) <!--- comment -->
 - [В Data Science не нужна математика (Почти)](https://habr.com/ru/company/ruvds/blog/676114/) `Rus`
+- [Mathematics Of Machine Learning | MIT](https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/) `Course`
 
 ## Statistics
 
@@ -462,7 +481,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 #### General
 
 - [Подборка ссылок по A/B тестированию от Валеры Бабушкина](https://uberkinder.notion.site/A-B-8bcc0fdc69bb4a0997a7d767e1a9d94b)
-- [R2D3 is an experiment in expressing statistical thinking with interactive design](http://www.r2d3.us/) `visualization`
+- [R2D3 is an experiment in expressing statistical thinking with interactive design](http://www.r2d3.us/) `visualization` <!--- comment -->  
 
 #### Blog posts
 
@@ -510,6 +529,11 @@ List of questions with patterns + tips
 
 ## Books
 
+### Data Science
+
+- [Thinking Clearly with Data: A Guide to Quantitative Reasoning and Analysis](https://www.amazon.com/Thinking-Clearly-Data-Quantitative-Reasoning/dp/0691214352)
+- [Applied Geospatial Data Science with Python: Leverage geospatial data analysis and modeling to find unique solutions to environmental problems](https://www.amazon.com/Applied-Geospatial-Data-Science-Python-ebook/dp/B0BJ7GPXMG) `Geo`
+
 ### NLP
 
 - [Speech and Language Processing by Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/) `Book`
@@ -530,6 +554,10 @@ List of questions with patterns + tips
 - [Clean Machine Learning Code](https://leanpub.com/cleanmachinelearningcode)
 - [Reliable Machine Learning: Applying SRE Principles to ML in Production by Cathy Chen](https://www.amazon.com/Reliable-Machine-Learning-Principles-Production/dp/1098106229/ref=sr_1_9?crid=2LKWLWL9VVED7&keywords=SRE&qid=1677242699&sprefix=sre%2Caps%2C244&sr=8-9)
 
+### Machine Learning System Design
+
+- [Machine Learning System Design by Valerii Babushkin and Arseny Kravchenko](https://www.manning.com/books/machine-learning-system-design)
+
 ## Note-taking system
 
 ### Anki
@@ -545,7 +573,7 @@ List of questions with patterns + tips
 ### Data Science
 
 - [Data Science Simplified](https://mathdatasimplified.com/subscribe/)
-- [Beyond Data by Adam Sroka][https://newsletter.adamsroka.co.uk/]
+- [Beyond Data by Adam Sroka](https://newsletter.adamsroka.co.uk/)
 
 ### Preparing for interviews
 
@@ -584,6 +612,15 @@ List of questions with patterns + tips
 
 - [Hamming, "You and Your Research"](https://gist.github.com/EgorBu/dabfd3c386021f8b19eea5e61a5fed5f)
 
+### Reading
+
+- [Bionic Reading](https://bionic-reading.com/)
+
 ### Website development
 
 - [Crafting My Personal Website: Jekyll, GitHub Pages, and a Custom Domain](https://andlukyane.com/blog/how-i-created-this-website)
+
+## Articles
+
+- [A Short Note on P-Value Hacking by Nassim Nicholas Taleb](https://arxiv.org/pdf/1603.07532.pdf)
+- [A Cookbook of Self-Supervised Learning](https://arxiv.org/pdf/2304.12210.pdf)
