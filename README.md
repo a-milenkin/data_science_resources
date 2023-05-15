@@ -31,6 +31,7 @@
       - [Courses](#courses-1)
       - [General](#general-1)
       - [Transformers](#transformers)
+      - [Prompt Engineering](#prompt-engineering)
       - [Tutorials](#tutorials-2)
       - [Blog posts](#blog-posts-3)
     - [Computer Vision](#computer-vision)
@@ -74,6 +75,7 @@
     - [Software Engineering](#software-engineering)
     - [System Design](#system-design-2)
   - [Other](#other-2)
+    - [Productivity](#productivity-1)
     - [Reading](#reading)
     - [Website development](#website-development)
   - [Articles](#articles)
@@ -117,6 +119,8 @@
 ### Behavioural interview
 
 - [41 Behavioural Interview Questions You Must Know (Best Answers Included)](https://www.themartec.com/insidelook/behavioral-interview-questions)
+- [How to Answer Top Interview Questions by Self Made Millennial](https://www.youtube.com/playlist?app=desktop&list=PL30MQiePH_cM6vGE9B_o1_TMsXK71XVCz) `Video`
+- [The Powerful Formula to Answer the Most Common Interview Questions (Story Toolbox)](https://youtu.be/xj-8YmjkOuk) `Video`
 
 ### Tips
 
@@ -165,7 +169,7 @@
 - [Как я готовился к собеседованию на позицию Senior ML Engineer by Zarin Gleb](https://zaringleb.medium.com/%D0%BA%D0%B0%D0%BA-%D1%8F-%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%B8%D0%BB%D1%81%D1%8F-%D0%BA-%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E-%D0%BD%D0%B0-%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8E-senior-ml-engineer-f2f6d8effa50) `Rus`
 - [На что обращать внимание на алгоритмических секциях собеседований](https://habr.com/ru/company/avito/blog/662922/) `Rus`
 - [Crack the top 40 machine learning interview questions](https://www.educative.io/blog/top-machine-learning-interview-questions)
-- [[Карьера в IT] Главное: что нужно знать, чтобы найти работу, пройти собеседование и выбрать оффер](https://habr.com/ru/company/getmatch/blog/685200/) `Rus`
+- [Что нужно знать, чтобы найти работу, пройти собеседование и выбрать оффер](https://habr.com/ru/company/getmatch/blog/685200) `Rus`
 - [How I landed 18 FAANG+ software engineer offers after not interviewing for 5 years](https://medium.com/@stevenzhang/how-i-landed-18-faang-software-engineer-offers-after-not-interviewing-for-5-years-fc0dfc957a5d)
 - [Emma Ding | Data Science Interview Blog | Data Interview Pro](https://www.emmading.com/blog-post)
 
@@ -174,6 +178,7 @@
 - [Data Scientist total compensation and salaries in the Netherlands](https://techpays.com/europe/netherlands/data_scientist)
 - [Programmer Competency Matrix](https://sijinjoseph.netlify.app/programmer-competency-matrix/)
 - [Just know stuff (or, how to achieve success in a machine learning PhD)](https://kidger.site/thoughts/just-know-stuff/)
+- [A Guide to Data Roles](https://www.datacaptains.com/blog/guide-to-data-roles)
 
 ## Computer Science
 
@@ -335,6 +340,13 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Transformer, explained in detail by Igor Kotenkov](https://youtu.be/iOrNbK2T92M) `Rus` `Video`
 - [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide) `Repository`
 
+#### Prompt Engineering
+
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) `Repository`
+- [Prompt injection with Gandalf](https://gandalf.lakera.ai/)
+- [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
+- [Your Guide to Communicating with Artificial Intelligence](https://learnprompting.org/)
+
 #### Tutorials
 
 - [Train and Fine-Tune Sentence Transformers Models](https://huggingface.co/blog/how-to-train-sentence-transformers)
@@ -446,7 +458,6 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [Extra materials for ml-mipt course](https://github.com/girafe-ai/ml-mipt/blob/master/extra_materials.md) `Repository`
 - [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi#tutorials) `Repository`
 - [Curated papers, articles, and blogs on data science & machine learning in production](https://github.com/eugeneyan/applied-ml) `Repository`
-- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) `Repository`
 - [Open Source Society University. Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science#summary) `Repository`
 
 ## Python
@@ -611,6 +622,10 @@ List of questions with patterns + tips
 ## Other
 
 - [Hamming, "You and Your Research"](https://gist.github.com/EgorBu/dabfd3c386021f8b19eea5e61a5fed5f)
+
+### Productivity
+
+- [Reminder — это медиа о здоровье, саморазвитии и практической философии](https://reminder.media/)
 
 ### Reading
 
