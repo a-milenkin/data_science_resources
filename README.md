@@ -346,6 +346,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Prompt injection with Gandalf](https://gandalf.lakera.ai/)
 - [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 - [Your Guide to Communicating with Artificial Intelligence](https://learnprompting.org/)
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) `Repository`
 
 #### Tutorials
 
