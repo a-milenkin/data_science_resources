@@ -217,6 +217,7 @@
 - [Машинное обучение (курс лекций, К.В.Воронцов)](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%BE) `Rus` `Course`
 - [Прикладные задачи анализа данных, Александр Дьяконов](https://github.com/Dyakonov/PZAD/tree/master/2020) + [Video](https://www.youtube.com/playlist?list=PLaRUeIuewv8CMFox0oEjlyePUhUmo-x0h) `Rus` `Course`
 - [Google Machine Learning Courses](https://developers.google.com/machine-learning) `Course`
+- [Алгоритмы Машинного обучения с нуля](https://stepik.org/course/68260/promo) `Rus` `Course`
 
 #### Applied ML
 
@@ -339,6 +340,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Transformer Recipe by Elvis Saravia](https://github.com/dair-ai/Transformers-Recipe) `Repository`
 - [Transformer, explained in detail by Igor Kotenkov](https://youtu.be/iOrNbK2T92M) `Rus` `Video`
 - [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide) `Repository`
+- [State of GPT by Andrej Karpathy](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2) `Video`
 
 #### Prompt Engineering
 
