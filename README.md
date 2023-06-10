@@ -111,6 +111,7 @@
 - [Вопросы с собеседований python. Как проходит собеседование Python-разработчика: вопросы для джуниоров и мидлов.](https://uproger.com/voprosy-s-sobesedovanij-python-kak-prohodit-sobesedovanie-python-razrabotchika-voprosy-dlya-dzhuniorov-i-midlov/) `Questions` `Python` `Rus`
 - [53 Python Interview Questions and Answers](https://towardsdatascience.com/53-python-interview-questions-and-answers-91fa311eec3f) `Questions` `Python`
 - [Вопросы на собеседовании Python, ответы, на которые вам стоит знать](https://uproger.com/20-voprosov-dlya-python-sobesedovanij-otvety-na-kotorye-vam-stoit-znat/) `Questions` `Python` `Rus`
+- [Python: вопросы на собеседовании. Часть III. Senior](https://pythonist.ru/python-voprosy-sobesedovaniya-chast-iii-senior/) `Questions` `Python` `Rus`
 
 ### Deep Learning
 
@@ -206,7 +207,7 @@
 
 ### Machine Learning
 
-- [Open Machine Learning Course by Yury Kashnitsky](https://mlcourse.ai/book/index.html) `Free course + Paid additional assignments`  <!--- comment -->
+- [Open Machine Learning Course by Yury Kashnitsky](https://mlcourse.ai/book/index.html) `Free course + Paid additional assignments` <!--- comment -->
 [Открытый курс машинного обучения](https://ods.ai/tracks/open-ml-course) `Rus` `Free course + Paid additional assignments`
 - [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer/featured) `Videos` <!--- comment -->
 - [Machine Learning Mastery by Jason Brownlee](https://machinelearningmastery.com/) `Free guides + Paid eBooks`
@@ -227,6 +228,7 @@
 - [Kaggle Learn](https://www.kaggle.com/learn) `Courses` <!--- comment -->
 - [Geographic Data Science with Python](https://geographicdata.science/book/notebooks/12_feature_engineering.html) `Geo` <!--- comment -->
 - [WTTE-RNN - Less hacky churn prediction](https://ragulpr.github.io/2016/12/22/WTTE-RNN-Hackless-churn-modeling/)
+- [Прикладной анализ данных в социальных науках](https://academy.yandex.ru/handbook/data-analysis?utm_source=vk&utm_medium=internal&utm_campaign=handbook_aon&utm_content=0606) `Rus`
 
 #### Blog posts
 
@@ -248,6 +250,7 @@
 - [Understanding the Bias-Variance Tradeoff by Seema Singh](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
 - [The “Bias-Variance Trade-Off” Explained Practically (In Python)](https://towardsdatascience.com/the-bias-variance-trade-off-explained-practically-in-python-48cf29d9e900)
 - [PySpark для аналитика. Как правильно просить ресурсы и как понять, сколько нужно брать](https://habr.com/ru/companies/avito/articles/732870/?erid=2VtzqxjG1Yk&erid=2Vtzqwxo44G) `Rus` `Spark`
+- [PySpark для аналитика. Как выгружать данные с помощью toPandas и его альтернатив](https://habr.com/ru/companies/avito/articles/740232/) `Rus` `Spark`
 
 #### Blogs
 
@@ -321,7 +324,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Нейронные сети и обработка текста](https://stepik.org/course/54098/info) `Rus` `Course`
 - [Stanford CS224N: NLP with Deep Learning](https://web.stanford.edu/class/cs224n/) + [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) `Course`
 - [NLP Course | For You by Lena Voita](https://lena-voita.github.io/nlp_course.html) + [YSDA Natural Language Processing course](https://github.com/yandexdataschool/nlp_course) `Rus videos + Eng guides` `Course`
-- [Hugging Face course](https://huggingface.co/course/chapter0) `Course`
+- [Hugging Face course](https://huggingface.co/course/chapter0) `Course` <!--- comment -->
 - [Natural Language Processing course by Valentin Malykh](https://ods.ai/tracks/nlp-course) `Course`
 - [Stanford LSA 311: Computational Lexical Semantics by Dan Jurafsky](https://web.stanford.edu/~jurafsky/li15/) `Course`
 - [Stanford CS224U: Natural Language Understanding](https://web.stanford.edu/class/cs224u/index.html) `Course`
@@ -341,10 +344,11 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Transformer, explained in detail by Igor Kotenkov](https://youtu.be/iOrNbK2T92M) `Rus` `Video`
 - [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide) `Repository`
 - [State of GPT by Andrej Karpathy](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2) `Video`
+- [LLM University by Cohere](https://docs.cohere.com/docs/llmu) `Course`
 
 #### Prompt Engineering
 
-- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) `Repository`
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) `Repository` <!--- comment -->
 - [Prompt injection with Gandalf](https://gandalf.lakera.ai/)
 - [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 - [Your Guide to Communicating with Artificial Intelligence](https://learnprompting.org/)
@@ -434,7 +438,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
   - [Unsupervised Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning)
   - [Deep Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
   - [Machine Learning tips and tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
-- [Stanford CS 230 ― Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/) `Cheatsheet`
+- [Stanford CS 230 ― Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/) `Cheatsheet` <!--- comment -->
   - [Convolutional Neural Networks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
   - [Recurrent Neural Networks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
   - [Deep Learning Tips and Tricks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
@@ -478,7 +482,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 ## Statistics
 
 - [Основы статистики](https://stepik.org/course/76/info) + [Основы статистики. Часть 2](https://stepik.org/course/524/info) + [Основы статистики. Часть 3](https://stepik.org/course/2152/info) `Rus` `Course`
-- [Statistics and probability from Khan Academy](https://www.khanacademy.org/math/statistics-probability) `Course`  <!--- comment -->
+- [Statistics and probability from Khan Academy](https://www.khanacademy.org/math/statistics-probability) `Course` <!--- comment -->
 - [CS109: Probability for Computer Scientists](https://web.stanford.edu/class/cs109/) + [Course Book](https://chrispiech.github.io/probabilityForComputerScientists/en/index.html) `Course`
 - [Математическая статистика и AB-тестирование](https://github.com/FUlyankin/matstat_coursera) `Repository`
 - [Стратификация. Как разбиение выборки повышает чувствительность A/B теста](https://habr.com/ru/company/X5Tech/blog/596279/) `Rus article`
@@ -506,7 +510,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 
 - [Основы SQL](https://stepik.org/course/51562/info) + [Продвинутый SQL](https://stepik.org/course/55776/info) + [Проектирование баз данных](https://stepik.org/course/51675/info) `Rus` `Paid` `Courses`
 - [Интерактивный тренажер по SQL](https://stepik.org/course/63054/info) `Rus` `Course`  
-- [Онлайн тренажер SQL Academy](https://sql-academy.org/en) `Course`  <!--- comment -->
+- [Онлайн тренажер SQL Academy](https://sql-academy.org/en) `Course` <!--- comment -->
 - [Ace the SQL & Data Science Interview](https://datalemur.com/)
 - [Practice SQL](https://www.sql-practice.com/)
 - [SQL Tutorial](https://mode.com/sql-tutorial/)
@@ -516,7 +520,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 
 ## Algorithms and Data Structures
 
-- [LeetCode Explore](https://leetcode.com/explore/) `Free + Paid` `Course`  <!--- comment -->
+- [LeetCode Explore](https://leetcode.com/explore/) `Free + Paid` `Course` <!--- comment -->
 - [Algoprog](https://algoprog.ru/) `Rus` `Free + Paid` `Course`
 - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/info) `Free` `Rus` `Course`
 - [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/info) `Free` `Rus` `Course`
@@ -524,7 +528,8 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [LEETCODE PATTERNS](https://seanprashad.com/leetcode-patterns/)  
 List of questions with patterns + tips
 - [Тренировки по алгоритмам от Яндекса](https://yandex.ru/yaintern/algorithm-training_1) `Rus`
-- [NeetCode. A better way to prepare for coding interviews.](https://neetcode.io/roadmap)  <!--- comment -->
+- [NeetCode. A better way to prepare for coding interviews.](https://neetcode.io/roadmap) <!--- comment -->
+- [Основы алгоритмов | Академия Яндекса](https://academy.yandex.ru/handbook/algorithms) <!--- comment -->
 
 ## Linux
 
@@ -625,6 +630,7 @@ List of questions with patterns + tips
 ## Other
 
 - [Hamming, "You and Your Research"](https://gist.github.com/EgorBu/dabfd3c386021f8b19eea5e61a5fed5f)
+- [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
 
 ### Productivity
 
