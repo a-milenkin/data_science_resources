@@ -517,6 +517,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [SQLBolt. Learn SQL with simple, interactive exercises.](https://sqlbolt.com/)
 - [SQL Tutorial by w3schools](https://www.w3schools.com/sql/)
 - [PostgreSQL Exercises](https://pgexercises.com/)
+- [The Ultimate SQL Guide](https://blog.count.co/the-ultimate-sql-guide/)
 
 ## Algorithms and Data Structures
 
