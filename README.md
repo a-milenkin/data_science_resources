@@ -57,12 +57,14 @@
     - [Tutorials](#tutorials-3)
   - [Team Lead](#team-lead)
   - [Books](#books)
+    - [Computer Science](#computer-science-1)
     - [Data Science](#data-science-1)
     - [NLP](#nlp-1)
     - [System Design](#system-design-1)
     - [Nonfiction](#nonfiction)
     - [Machine Learning](#machine-learning-1)
     - [Machine Learning System Design](#machine-learning-system-design-1)
+    - [Deep Learning](#deep-learning-2)
   - [Note-taking system](#note-taking-system)
     - [Anki](#anki)
     - [Zettelkasten](#zettelkasten)
@@ -160,6 +162,7 @@
 - [IT-собеседование в Тинькофф](https://github.com/Tinkoff/career/tree/main/interview)
 - [Материалы для подготовки по машинному обучению от Тинькофф](https://www.tinkoff.ru/career/it/interview/ml/) `Rus`
 - [Что надо знать сотруднику Цельса?](https://telegra.ph/CHto-nado-znat-ML-inzheneru-v-Celse-02-10) `Rus`
+- [Программа Академии Data Science от Тинькофф](https://fintech.tinkoff.ru/academy/master/#%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0) `Rus`
 
 ### Courses
 
@@ -224,11 +227,12 @@
 
 - [Interpretable Machine Learning. A Guide for Making Black Box Models Explainable by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/) `Book`
 - [Feature Engineering and Selection: A Practical Approach for Predictive Models by Max Kuhn and Kjell Johnson](http://www.feat.engineering/index.html) `Book`
-- [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning by Sebastian Raschka](https://arxiv.org/abs/1811.12808) `Article`
+- [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning by Sebastian Raschka](https://arxiv.org/abs/1811.12808) `Article` <!--- comment -->
 - [Kaggle Learn](https://www.kaggle.com/learn) `Courses` <!--- comment -->
 - [Geographic Data Science with Python](https://geographicdata.science/book/notebooks/12_feature_engineering.html) `Geo` <!--- comment -->
 - [WTTE-RNN - Less hacky churn prediction](https://ragulpr.github.io/2016/12/22/WTTE-RNN-Hackless-churn-modeling/)
 - [Прикладной анализ данных в социальных науках](https://academy.yandex.ru/handbook/data-analysis?utm_source=vk&utm_medium=internal&utm_campaign=handbook_aon&utm_content=0606) `Rus`
+- [featurewiz is the best feature selection library for boosting your machine learning performance with minimal effort and maximum relevance using the famous MRMR algorithm](https://github.com/AutoViML/featurewiz) `feature selection`
 
 #### Blog posts
 
@@ -483,7 +487,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 
 - [Основы статистики](https://stepik.org/course/76/info) + [Основы статистики. Часть 2](https://stepik.org/course/524/info) + [Основы статистики. Часть 3](https://stepik.org/course/2152/info) `Rus` `Course`
 - [Statistics and probability from Khan Academy](https://www.khanacademy.org/math/statistics-probability) `Course` <!--- comment -->
-- [CS109: Probability for Computer Scientists](https://web.stanford.edu/class/cs109/) + [Course Book](https://chrispiech.github.io/probabilityForComputerScientists/en/index.html) `Course`
+- [CS109: Probability for Computer Scientists](https://web.stanford.edu/class/cs109/) + [Course Book](https://chrispiech.github.io/probabilityForComputerScientists/en/index.html) `Course` <!--- comment -->
 - [Математическая статистика и AB-тестирование](https://github.com/FUlyankin/matstat_coursera) `Repository`
 - [Стратификация. Как разбиение выборки повышает чувствительность A/B теста](https://habr.com/ru/company/X5Tech/blog/596279/) `Rus article`
 - [12 бесплатных материалов по статистике – разберется каждый](https://uproger.com/12-besplatnyh-materialov-po-statistike-razberetsya-kazhdyj/) `Rus`
@@ -493,13 +497,13 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [The Beginner's Guide to Statistical Analysis by Scribbr](https://www.scribbr.com/category/statistics/)
 - [Прикладная статистика. Репозиторий для линейки онлайн-курсов по статистике](https://github.com/FUlyankin/matstat-AB) `Repository` `Rus`
 - [Multivariate statistics](https://www.youtube.com/playlist?app=desktop&list=PLLTSM0eKjC2fZqeVFWBBBr8KSqnBIPMQD) `Course` `Video`
+- [R2D3 is an experiment in expressing statistical thinking with interactive design](http://www.r2d3.us/) `visualization` <!--- comment -->  
 
 ### A/B Tests
 
 #### General
 
 - [Подборка ссылок по A/B тестированию от Валеры Бабушкина](https://uberkinder.notion.site/A-B-8bcc0fdc69bb4a0997a7d767e1a9d94b)
-- [R2D3 is an experiment in expressing statistical thinking with interactive design](http://www.r2d3.us/) `visualization` <!--- comment -->  
 
 #### Blog posts
 
@@ -531,6 +535,7 @@ List of questions with patterns + tips
 - [Тренировки по алгоритмам от Яндекса](https://yandex.ru/yaintern/algorithm-training_1) `Rus`
 - [NeetCode. A better way to prepare for coding interviews.](https://neetcode.io/roadmap) <!--- comment -->
 - [Основы алгоритмов | Академия Яндекса](https://academy.yandex.ru/handbook/algorithms) <!--- comment -->
+- [The Algorithms. Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language](https://github.com/TheAlgorithms)
 
 ## Linux
 
@@ -548,6 +553,10 @@ List of questions with patterns + tips
 - [Teamlead Roadmap](https://tlroadmap.io/) `Rus`
 
 ## Books
+
+### Computer Science
+
+- [List of Free Learning Resources In Many Languages](https://ebookfoundation.github.io/free-programming-books/)
 
 ### Data Science
 
@@ -573,10 +582,15 @@ List of questions with patterns + tips
 - [Machine Learning Q and AI. Expand Your Machine Learning & AI Knowledge With 30 In-Depth Questions and Answers by Sebastian Raschka](https://leanpub.com/machine-learning-q-and-ai/)
 - [Clean Machine Learning Code](https://leanpub.com/cleanmachinelearningcode)
 - [Reliable Machine Learning: Applying SRE Principles to ML in Production by Cathy Chen](https://www.amazon.com/Reliable-Machine-Learning-Principles-Production/dp/1098106229/ref=sr_1_9?crid=2LKWLWL9VVED7&keywords=SRE&qid=1677242699&sprefix=sre%2Caps%2C244&sr=8-9)
+- [An Introduction to Statistical Learning with Application in Python](https://hastie.su.domains/ISLP/ISLP_website.pdf)
 
 ### Machine Learning System Design
 
 - [Machine Learning System Design by Valerii Babushkin and Arseny Kravchenko](https://www.manning.com/books/machine-learning-system-design)
+
+### Deep Learning
+
+- [The Little Book of Deep Learning by François Fleuret](https://fleuret.org/public/lbdl.pdf)
 
 ## Note-taking system
 
@@ -608,7 +622,7 @@ List of questions with patterns + tips
 ### Machine Learning & Deep Learning
 
 - [MACHINE LEARNING QUESTIONS](https://today.bnomial.com/) <!--- comment -->
-- [Mindful Modeler by Christoph Molnar](https://mindfulmodeler.substack.com/)
+- [Mindful Modeler by Christoph Molnar](https://mindfulmodeler.substack.com/) <!--- comment -->
 - [Tuesday Musings by Radek Osmulski](https://newsletter.radekosmulski.com/)
 - [The Batch. What Matters in AI Right Now](https://www.deeplearning.ai/the-batch/)
 - [Newsletter by Eugene Yan](https://eugeneyan.com/subscribe/)
